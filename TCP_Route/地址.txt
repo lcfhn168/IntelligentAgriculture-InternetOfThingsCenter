@@ -1,0 +1,2 @@
+wss://goyowss.igongdi.cn
+114.55.126.208:4999

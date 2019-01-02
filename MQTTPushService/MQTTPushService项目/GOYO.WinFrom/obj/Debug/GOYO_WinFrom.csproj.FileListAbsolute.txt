@@ -1,0 +1,204 @@
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\Config.ini
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\GOYO.DBUtility.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\GOYO.Utils.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\GOYO_Architecture.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\TCPAPI.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.pdb
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\bin\Debug\GOYO_Architecture.pdb
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\Config.ini
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO.DBUtility.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO.Utils.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_Architecture.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\TCPAPI.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_Architecture.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\Config.ini
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO.DBUtility.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO.Utils.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_Architecture.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\TCPAPI.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\bin\Debug\GOYO_Architecture.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\GOYO.DBUtility.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\GOYO.Utils.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\GOYO_Architecture.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\TCPAPI.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\GOYO_ProtocolAnalysis.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\bin\Debug\GOYO_Architecture.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\DBStorage.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\bin\Debug\DBStorage.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\M2Mqtt.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Config.ini
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\M2Mqtt.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Config.ini
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\M2Mqtt.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Config.ini
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\M2Mqtt.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\cn.jpush.api.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\aliyun-net-sdk-core.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.Cache
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Config.ini
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\M2Mqtt.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\cn.jpush.api.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\aliyun-net-sdk-core.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojAssemblyReference.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.CoreCompileInputs.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.CopyComplete
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\M2Mqtt.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\cn.jpush.api.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\aliyun-net-sdk-core.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\bin\Debug\MQTTPushService.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb

@@ -1,0 +1,62 @@
+D:\2016-09-02\塔吊升降机新架构\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+D:\2016-09-02\塔吊升降机新架构\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+D:\2016-09-02\塔吊升降机新架构\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊升降机新架构\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+D:\2016-09-02\塔吊升降机新架构\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+I:\gitlab\equipmentMonitoring\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+I:\gitlab\equipmentMonitoring\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+I:\gitlab\equipmentMonitoring\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojResolveAssemblyReference.cache
+I:\gitlab\equipmentMonitoring\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+I:\gitlab\equipmentMonitoring\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+C:\Users\赵通\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+C:\Users\赵通\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+C:\Users\赵通\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\赵通\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+C:\Users\赵通\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+C:\Users\Administrator\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+C:\Users\Administrator\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+C:\Users\Administrator\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+C:\Users\Administrator\Desktop\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+C:\Users\赵通\Desktop\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+C:\Users\赵通\Desktop\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+C:\Users\赵通\Desktop\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\赵通\Desktop\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+C:\Users\赵通\Desktop\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+G:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+G:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+G:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+G:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+G:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+D:\2016-09-02\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+D:\2016-09-02\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+D:\2016-09-02\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+D:\2016-09-02\塔吊等新\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+F:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+F:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+F:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+F:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+F:\gitlab\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+C:\Users\16600\Desktop\项目备份\1122备份\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+C:\Users\16600\Desktop\项目备份\1122备份\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+C:\Users\16600\Desktop\项目备份\1122备份\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojAssemblyReference.cache
+C:\Users\16600\Desktop\项目备份\1122备份\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\16600\Desktop\项目备份\1122备份\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+C:\Users\16600\Desktop\项目备份\1122备份\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+C:\Users\16600\Desktop\work\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+C:\Users\16600\Desktop\work\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+C:\Users\16600\Desktop\work\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+C:\Users\16600\Desktop\work\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+C:\Users\16600\Desktop\work\equipmentMonitoring_new\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+F:\goyo\Equipment_WinServer\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+F:\goyo\Equipment_WinServer\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+F:\goyo\Equipment_WinServer\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csprojAssemblyReference.cache
+F:\goyo\Equipment_WinServer\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+F:\goyo\Equipment_WinServer\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+F:\goyo\Equipment_WinServer\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\GOYO_UdpServer\bin\Debug\GOYO_UdpServer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\GOYO_UdpServer\obj\Debug\GOYO_UdpServer.pdb

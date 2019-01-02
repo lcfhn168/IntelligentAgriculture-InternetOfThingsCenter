@@ -1,0 +1,5 @@
+post
+
+卸料：  http://10.10.10.125:8080/csmsnew1.0/unload/unloadcranealarm?equipmentNo=XNDKD2342&remindcon=66000002卸料平台报警
+塔吊：  http://10.10.10.125:8080/csmsnew1.0/unload/towercranealarm?equipmentNo=XNDKD2342&remindcon=66000002塔吊报警
+升降机： http://10.10.10.125:8080/csmsnew1.0/unload/elevatorcranealarm?equipmentNo=XNDKD2342&remindcon=66000002升降机报警

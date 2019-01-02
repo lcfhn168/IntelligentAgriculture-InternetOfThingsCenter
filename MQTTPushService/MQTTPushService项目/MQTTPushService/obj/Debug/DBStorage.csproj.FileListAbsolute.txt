@@ -1,0 +1,9 @@
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\bin\Debug\DBStorage.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\bin\Debug\DBStorage.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\obj\Debug\DBStorage.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\obj\Debug\DBStorage.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\DBStorage\obj\Debug\DBStorage.pdb

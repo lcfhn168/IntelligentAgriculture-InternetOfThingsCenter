@@ -1,0 +1,17 @@
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\WinFromStart.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\WinFromStart.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\DBStorage.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\bin\Debug\DBStorage.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\GOYO_WinFrom.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\WinFromStart.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WinFrom\obj\Debug\WinFromStart.pdb

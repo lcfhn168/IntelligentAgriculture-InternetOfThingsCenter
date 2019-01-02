@@ -1,0 +1,3 @@
+卸料平台报警主题：unloadcranealarm
+塔吊平台报警主题：towercranealarm
+升降机平台报警主题：elevatorcranealarm

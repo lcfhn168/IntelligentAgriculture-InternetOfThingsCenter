@@ -1,0 +1,56 @@
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.dll
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.pdb
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.dll
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.pdb
+E:\共友时代\全新架构服务程序\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Config.ini
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.dll
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.pdb
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.dll
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.pdb
+D:\2016-09-02\塔吊升降机新架构\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csprojResolveAssemblyReference.cache
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Config.ini
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.dll
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.pdb
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Newtonsoft.Json.dll
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\SIXH.DBUtility.dll
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\ToolAPI.dll
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.dll
+I:\gitlab\equipmentMonitoring\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.pdb
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Config.ini
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.dll
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.pdb
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.dll
+D:\2016-09-02\塔吊等新\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.pdb
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Config.ini
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.dll
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.pdb
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\Newtonsoft.Json.dll
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\SIXH.DBUtility.dll
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\bin\Debug\ToolAPI.dll
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csprojAssemblyReference.cache
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csproj.CoreCompileInputs.cache
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csproj.CopyComplete
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.dll
+F:\gitlab\equipmentMonitoring_new\DeleteServer\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\bin\Debug\DeleteServer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeleteServer项目\DeleteServer\obj\Debug\DeleteServer.pdb

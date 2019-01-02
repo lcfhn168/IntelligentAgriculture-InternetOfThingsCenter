@@ -1,0 +1,59 @@
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\M2Mqtt.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csprojResolveAssemblyReference.cache
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Config.ini
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\M2Mqtt.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Newtonsoft.Json.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\SIXH.DBUtility.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\ToolAPI.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csprojResolveAssemblyReference.cache
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Config.ini
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\M2Mqtt.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Config.ini
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\M2Mqtt.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Config.ini
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\M2Mqtt.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\SIXH.DBUtility.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\ToolAPI.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csprojAssemblyReference.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csproj.CoreCompileInputs.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csproj.CopyComplete
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\MQTTPushService.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\M2Mqtt.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\MQTTPushService\obj\Debug\MQTTPushService.pdb

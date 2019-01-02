@@ -1,0 +1,223 @@
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\Config.ini
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\卸载.bat
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\安装.bat
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\TCPAPI.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GOYO.DBUtility.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GOYO.Utils.dll
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.pdb
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.pdb
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+E:\扬尘噪音整理\project\GreenConstruction\RaiseDustNoise\GOYO.Standard\RaiseDustNoise\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\Config.ini
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\卸载.bat
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\安装.bat
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\TCPAPI.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO.DBUtility.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO.Utils.dll
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.pdb
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+E:\扬尘噪音整理\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\Config.ini
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\卸载.bat
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\安装.bat
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO.DBUtility.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO.Utils.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\TCPAPI.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.pdb
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+I:\hw\GOYOService\GreenConstruction\project\RaiseDustNoise_Comprehensive\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\卸载.bat
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\安装.bat
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GOYO.DBUtility.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GOYO.Utils.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\TCPAPI.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GOYO_ProtocolAnalysis.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\bin\Debug\GOYO_Architecture.pdb
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+E:\共友时代\全新架构服务程序\DeviceDataDispatcherEnd\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\卸载.bat
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\安装.bat
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\DBStorage.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\bin\Debug\DBStorage.pdb
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+E:\共友时代\全新架构服务程序\DBStorage\DBStorage\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Config.ini
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\卸载.bat
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\安装.bat
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\M2Mqtt.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.pdb
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+E:\共友时代\全新架构服务程序\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Config.ini
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\卸载.bat
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\安装.bat
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\M2Mqtt.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.pdb
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+I:\gitlab\equipmentMonitoring\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Config.ini
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\卸载.bat
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\安装.bat
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\M2Mqtt.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+D:\2016-09-02\塔吊升降机新架构\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Config.ini
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\卸载.bat
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\安装.bat
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\M2Mqtt.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\cn.jpush.api.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\aliyun-net-sdk-core.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.pdb
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojResolveAssemblyReference.cache
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.Cache
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+D:\2016-09-02\塔吊等新\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Config.ini
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\卸载.bat
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\安装.bat
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\M2Mqtt.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\cn.jpush.api.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\aliyun-net-sdk-core.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.pdb
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojAssemblyReference.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.CoreCompileInputs.cache
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.CopyComplete
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+F:\goyo\Equipment_WinServer\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\卸载.bat
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\安装.bat
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\GPRS_Service.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\M2Mqtt.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\cn.jpush.api.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\aliyun-net-sdk-core.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\aliyun-net-sdk-dysmsapi.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\bin\Debug\MQTTPushService.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.RoutedProtocol.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_SpecialEquipmentServer.ProjectInstaller.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\MQTTPushService\MQTTPushService项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
