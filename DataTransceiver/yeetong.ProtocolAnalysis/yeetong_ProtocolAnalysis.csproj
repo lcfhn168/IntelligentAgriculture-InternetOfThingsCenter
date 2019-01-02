@@ -61,21 +61,11 @@
     <Compile Include="CommandIssuedMain\CommandIssued_Main.cs" />
     <Compile Include="EntityReader.cs" />
     <Compile Include="DBFrame.cs" />
+    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Analyze.cs" />
+    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_DB.cs" />
+    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AnalysisMain\ProtocolAnalysisSE_Main.cs" />
-    <Compile Include="Tool\ConvertWind.cs" />
-    <Compile Include="Tool\HexStringToDouble.cs" />
-    <Compile Include="Tool\SQLJoint.cs" />
-    <Compile Include="Tool\StringByDouble.cs" />
-    <Compile Include="TowerCrane\021303\CommandIssued_021303.cs" />
-    <Compile Include="TowerCrane\Mysql\DB_MysqlTowerCrane.cs" />
-    <Compile Include="TowerCrane\021303\FrameV021303.cs" />
-    <Compile Include="TowerCrane\021303\GprsResolveDataV021303.cs" />
-    <Compile Include="TowerCrane\021303\ISEFrame.cs" />
-    <Compile Include="TowerCrane\OE\CommandIssued_TC0E.cs" />
-    <Compile Include="TowerCrane\OE\GprsCraneBaseInfo.cs" />
-    <Compile Include="TowerCrane\OE\GprsCraneDataObject.cs" />
-    <Compile Include="TowerCrane\OE\GprsResolveDataV0E.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
