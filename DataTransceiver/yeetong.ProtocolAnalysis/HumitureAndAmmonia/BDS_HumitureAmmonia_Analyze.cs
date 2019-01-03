@@ -22,7 +22,7 @@ namespace yeetong_ProtocolAnalysis
             {
                 DBFrame df = new DBFrame();
                 df.contenthex = ConvertData.ToHexString(b, 0, c);
-                df.version = (client.External.External as TcpClientBindingExternalClass).TVersion;
+                df.version = "1.0";//默认写成1.0
                 //解析 todo
 
                 TcpClientBindingExternalClass TcpExtendTemp = client.External.External as TcpClientBindingExternalClass;
