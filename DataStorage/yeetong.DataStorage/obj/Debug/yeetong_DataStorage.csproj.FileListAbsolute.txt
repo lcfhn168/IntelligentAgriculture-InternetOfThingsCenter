@@ -2,7 +2,6 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\bin\Debug\yeetong_DataStorage.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\bin\Debug\yeetong_DataStorage.pdb
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\bin\Debug\Newtonsoft.Json.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\obj\Debug\yeetong_DataStorage.csprojAssemblyReference.cache
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\obj\Debug\yeetong_DataStorage.csproj.CoreCompileInputs.cache
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\obj\Debug\yeetong_DataStorage.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.DataStorage\obj\Debug\yeetong_DataStorage.dll

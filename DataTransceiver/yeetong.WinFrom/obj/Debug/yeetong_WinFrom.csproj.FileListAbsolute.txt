@@ -49,6 +49,7 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_UdpServer.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\Newtonsoft.Json.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.pdb
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.dll.config
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.pdb

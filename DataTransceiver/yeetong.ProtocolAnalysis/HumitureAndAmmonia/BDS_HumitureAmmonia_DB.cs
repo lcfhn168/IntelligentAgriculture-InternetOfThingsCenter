@@ -19,7 +19,7 @@ namespace yeetong_ProtocolAnalysis
         {
             try
             {
-                string sql = string.Format("INSERT INTO towerCrane (deviceid,datatype,contentjson,contenthex,version) VALUES('{0}','{1}','{2}','{3}','{4}')", df.deviceid, df.datatype, df.contentjson, df.contenthex, df.version);
+                string sql = string.Format("INSERT INTO humitureandammonia (deviceid,datatype,contentjson,contenthex,version) VALUES('{0}','{1}','{2}','{3}','{4}')", df.deviceid, df.datatype, df.contentjson, df.contenthex, df.version);
                 int result = DBoperateClass.DBoperateObj.ExecuteNonQuery(sql, null, CommandType.Text);
                 return result;
             }

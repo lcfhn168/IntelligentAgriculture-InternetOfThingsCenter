@@ -58,12 +58,6 @@
     <Compile Include="Main\MainClass.cs" />
     <Compile Include="Main\MainStatic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TowerCrane\021303\Frame.cs" />
-    <Compile Include="TowerCrane\0E\GprsCraneBaseInfo.cs" />
-    <Compile Include="TowerCrane\0E\MysqlTowerCrane_0E.cs" />
-    <Compile Include="TowerCrane\0E\WorkingCycle.cs" />
-    <Compile Include="TowerCrane\021303\MysqlTowerCrane_021303.cs" />
-    <Compile Include="TowerCrane\TowerCrane_Main.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Config.ini">

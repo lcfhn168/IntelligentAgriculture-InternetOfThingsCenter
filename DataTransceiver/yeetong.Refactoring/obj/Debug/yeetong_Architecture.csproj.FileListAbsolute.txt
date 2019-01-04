@@ -22,7 +22,6 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll.config
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.pdb
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csprojAssemblyReference.cache
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.Properties.Resources.resources
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.GenerateResource.cache
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CoreCompileInputs.cache

@@ -17,3 +17,8 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.exe
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DBStorage\DBStorage项目\GOYO.WindowsServer\obj\x86\Debug\GPRS_Service.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_SpecialEquipmentServer.RoutedProtocol.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_SpecialEquipmentServer.ProjectInstaller.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\GOYO_WindowsServer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\bin\Debug\yeetong_DataDelete.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\bin\Debug\yeetong_DataDelete.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\obj\Debug\yeetong_DataDelete.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\obj\Debug\yeetong_DataDelete.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\obj\Debug\yeetong_DataDelete.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\obj\Debug\yeetong_DataDelete.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.DeleteServer\obj\Debug\yeetong_DataDelete.pdb

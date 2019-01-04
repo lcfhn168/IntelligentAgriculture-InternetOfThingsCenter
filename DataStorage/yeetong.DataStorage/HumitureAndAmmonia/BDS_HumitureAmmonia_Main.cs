@@ -4,8 +4,6 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using yeetong_DataStorage._021303;
-using yeetong_DataStorage._0E;
 
 namespace yeetong_DataStorage
 {
@@ -62,9 +60,9 @@ namespace yeetong_DataStorage
                         foreach (HumitureAndAmmoniaDBFrame dbf in forwardconfigResult)
                         {
                             if (dbf.version == "1.0")
-                                MysqlHumitureAndAmmonia_021303.HumitureAndAmmoniaDBFrameAnalyse(dbf);
+                                BDS_HumitureAmmonia_DB.BDS_HumitureAmmoniaAnalyse(dbf);
                             else
-                                MysqlHumitureAndAmmonia_Local.UpdateHumitureAndAmmoniadbtypeByid(dbf.id);
+                                HumitureAndAmmonia_LocalDB.UpdateHumitureAndAmmoniadbtypeByid(dbf.id);
                         }
                     }
                 }

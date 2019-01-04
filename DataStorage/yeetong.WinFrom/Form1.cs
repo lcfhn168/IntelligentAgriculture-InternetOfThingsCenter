@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using DBStorage;
+using yeetong_DataStorage;
 
 namespace WinFromStart
 {
@@ -34,13 +34,13 @@ namespace WinFromStart
         {
             if (pictureBox1.Image.Tag.ToString()=="open")
             {
-                pictureBox1.Image = WinFromStart.Properties.Resources.close;
+                pictureBox1.Image = yeetong_WinFrom.Properties.Resources.close;
                 pictureBox1.Image.Tag = "close";
                 mc.App_Close();
             }
             else
             {
-                pictureBox1.Image = WinFromStart.Properties.Resources.open;
+                pictureBox1.Image = yeetong_WinFrom.Properties.Resources.open;
                 pictureBox1.Image.Tag = "open";
                 mc.App_Open();
             }

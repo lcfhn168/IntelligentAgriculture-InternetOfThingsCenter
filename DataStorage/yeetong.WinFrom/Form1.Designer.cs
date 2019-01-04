@@ -40,7 +40,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.pictureBox1.Image = global::WinFromStart.Properties.Resources.close;
+            this.pictureBox1.Image = global::yeetong_WinFrom.Properties.Resources.close;
             this.pictureBox1.Location = new System.Drawing.Point(0, 42);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(278, 89);
@@ -56,9 +56,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(170, 22);
+            this.label1.Size = new System.Drawing.Size(90, 22);
             this.label1.TabIndex = 11;
-            this.label1.Text = "特殊起重设备服务中转";
+            this.label1.Text = "数据库存储";
             // 
             // pictureBox2
             // 
@@ -83,7 +83,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "服务中转";
+            this.Text = "数据库存储";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.FormMove_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.FormMove_MouseMove);

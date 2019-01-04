@@ -14,7 +14,7 @@ namespace yeetong_DataStorage
         {
             try
             {
-                TowerCrane_Main.App_Open();
+                HumitureAndAmmonia_Main.App_Open();
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序启动", "");
             }
             catch (Exception ex)
@@ -29,8 +29,8 @@ namespace yeetong_DataStorage
         {
             try
             {
-              
-                TowerCrane_Main.App_Close();
+
+                HumitureAndAmmonia_Main.App_Close();
              
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序关闭", "");
             }

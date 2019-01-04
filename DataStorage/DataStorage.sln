@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "业务项目", "业务项�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yeetong_DataStorage", "yeetong.DataStorage\yeetong_DataStorage.csproj", "{282407CE-671D-46F8-B1D6-4FB821AB46B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOYO_WinFrom", "yeetong.WinFrom\GOYO_WinFrom.csproj", "{B671283C-C8BF-45C2-B700-C19CB9CB3A9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yeetong_WinFrom", "yeetong.WinFrom\yeetong_WinFrom.csproj", "{B671283C-C8BF-45C2-B700-C19CB9CB3A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOYO_WindowsServer", "yeetong.WindowsServer\GOYO_WindowsServer.csproj", "{2A895C79-DB56-4F07-B355-EC26181C3825}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yeetong_WindowsServer", "yeetong.WindowsServer\yeetong_WindowsServer.csproj", "{2A895C79-DB56-4F07-B355-EC26181C3825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

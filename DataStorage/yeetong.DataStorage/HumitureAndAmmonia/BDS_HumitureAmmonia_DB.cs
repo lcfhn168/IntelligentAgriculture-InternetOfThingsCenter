@@ -8,24 +8,17 @@ using System.Data.Common;
 using System.Text.RegularExpressions;
 using SIXH.DBUtility;
 using System.Threading;
-using yeetong_DataStorage.TowerCrane._0E;
 
 namespace yeetong_DataStorage
 {
     public class BDS_HumitureAmmonia_DB
     {
         static DbHelperSQL dbNetdefault = null;
-        static DbHelperSQL DbNetHis = null;
         static BDS_HumitureAmmonia_DB()
         {
             try
             {
                 string connectionString = ToolAPI.INIOperate.IniReadValue("netSqlGroup", "connectionString", MainStatic.Path);
-                string connectionStringHis = ToolAPI.INIOperate.IniReadValue("netSqlGroupHis", "connectionString", MainStatic.Path);
-
-                string[] dbnetAryHis = connectionStringHis.Split('&');
-                DbNetHis = new DbHelperSQL(string.Format("Data Source={0};Port={1};Database={2};User={3};Password={4}", dbnetAryHis[0], dbnetAryHis[1], dbnetAryHis[2], dbnetAryHis[3], dbnetAryHis[4]), DbProviderType.MySql);
-
                 string[] dbnetAr = connectionString.Split('&');
                 dbNetdefault = new DbHelperSQL(string.Format("Data Source={0};Port={1};Database={2};User={3};Password={4}", dbnetAr[0], dbnetAr[1], dbnetAr[2], dbnetAr[3], dbnetAr[4]), DbProviderType.MySql);
             }
@@ -35,7 +28,7 @@ namespace yeetong_DataStorage
             }
         }
 
-        public static void TowerCraneTowerCraneDBFrameAnalyse(HumitureAndAmmoniaDBFrame dbf)
+        public static void BDS_HumitureAmmoniaAnalyse(HumitureAndAmmoniaDBFrame dbf)
         {
             try
             {
@@ -43,10 +36,10 @@ namespace yeetong_DataStorage
                 {
                     case "heartbeat":
                         BDS_HumitureAmmonia_Heartbeat hb = Newtonsoft.Json.JsonConvert.DeserializeObject<BDS_HumitureAmmonia_Heartbeat>(dbf.contentjson);
-                        Pro_heartbeat(hb); break;
+                        SavehumitureammoniaHeartbeat(hb); break;
                     case "current":
                         BDS_HumitureAmmonia_Current cu = Newtonsoft.Json.JsonConvert.DeserializeObject<BDS_HumitureAmmonia_Current>(dbf.contentjson);
-                        SaveCraneCurrent(cu); break;
+                        SavehumitureammoniaCurrent(cu); break;
                     default: break;
                 }
                 HumitureAndAmmonia_LocalDB.UpdateHumitureAndAmmoniadbtypeByid(dbf.id);
@@ -57,8 +50,9 @@ namespace yeetong_DataStorage
             }
         }
 
+
         #region 实时数据
-        public static int SaveCraneCurrent(BDS_HumitureAmmonia_Current current)
+        public static int SavehumitureammoniaCurrent(BDS_HumitureAmmonia_Current current)
         {
             try
             {
@@ -71,14 +65,14 @@ namespace yeetong_DataStorage
                     paraList.Add(dbNetdefault.CreateDbParameter("@temperature_temp", current.Temperature));
                     paraList.Add(dbNetdefault.CreateDbParameter("@humidity_temp", current.Humidity));
                     paraList.Add(dbNetdefault.CreateDbParameter("@nh3_temp", current.Ammonia));
-                    int y = dbNetdefault.ExecuteNonQuery("pro_craneCurrent", paraList, CommandType.StoredProcedure);
+                    int y = dbNetdefault.ExecuteNonQuery("humitureammonia_save_current", paraList, CommandType.StoredProcedure);
                     return y;
                 }
                 return 0;
             }
             catch (Exception ex)
             {
-                ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_DB.SaveCraneCurrent异常", ex.Message);
+                ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_DB.SavehumitureammoniaCurrent异常", ex.Message);
                 return 0;
             }
         }
@@ -86,7 +80,7 @@ namespace yeetong_DataStorage
         #endregion
 
         #region 心跳
-        public static int Pro_heartbeat(BDS_HumitureAmmonia_Heartbeat o)
+        public static int SavehumitureammoniaHeartbeat(BDS_HumitureAmmonia_Heartbeat o)
         {
             try
             {
@@ -103,7 +97,7 @@ namespace yeetong_DataStorage
             }
             catch (Exception ex)
             {
-                ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_DB.Pro_heartbeat异常", ex.Message);
+                ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_DB.SavehumitureammoniaHeartbeat异常", ex.Message);
                 return 0;
             }
 

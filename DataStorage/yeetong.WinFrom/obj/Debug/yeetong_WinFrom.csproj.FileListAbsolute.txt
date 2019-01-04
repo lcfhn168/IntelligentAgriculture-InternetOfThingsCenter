@@ -1,0 +1,16 @@
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\yeetong_DataStorage.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\bin\Debug\yeetong_DataStorage.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\WinFromStart.Form1.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Properties.Resources.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.pdb

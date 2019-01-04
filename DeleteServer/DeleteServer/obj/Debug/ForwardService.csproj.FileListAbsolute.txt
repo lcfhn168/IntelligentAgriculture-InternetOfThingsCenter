@@ -1,8 +1,0 @@
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\bin\Debug\Config.ini
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\bin\Debug\ForwardService.dll
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\bin\Debug\ForwardService.pdb
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\bin\Debug\Newtonsoft.Json.dll
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\bin\Debug\SIXH.DBUtility.dll
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\bin\Debug\ToolAPI.dll
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\obj\Debug\ForwardService.dll
-E:\共友时代\全新架构服务程序\ForwardService\ForwardService项目\ForwardService\obj\Debug\ForwardService.pdb
