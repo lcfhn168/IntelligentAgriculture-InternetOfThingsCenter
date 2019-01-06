@@ -63,6 +63,7 @@
     <Compile Include="DBFrame.cs" />
     <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Analyze.cs" />
     <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_DB.cs" />
+    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_issued.cs" />
     <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AnalysisMain\ProtocolAnalysisSE_Main.cs" />

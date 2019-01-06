@@ -42,6 +42,7 @@ namespace yeetong_SpecialEquipmentServer
             //TCP
             Subject sub = new Subject();
             sub.DataAnalysis += ProtocolAnalysisSE_Main.ProtocolPackageResolver;
+            //命令下发
             CommandIssued_Main.CommandIssued_MainInit();
             sub.CommandSending += CommandIssued_Main.CommandIssuedInitEvent;
             mc.App_Open(sub);

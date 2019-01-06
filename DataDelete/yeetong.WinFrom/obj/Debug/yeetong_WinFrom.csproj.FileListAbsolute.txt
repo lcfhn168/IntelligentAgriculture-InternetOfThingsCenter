@@ -13,3 +13,18 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.exe
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe.config
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\Config.ini
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_DataDelete.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\SIXH.DBUtility.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_DataDelete.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csprojResolveAssemblyReference.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Form1.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Properties.Resources.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.GenerateResource.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CoreCompileInputs.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.exe
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.pdb

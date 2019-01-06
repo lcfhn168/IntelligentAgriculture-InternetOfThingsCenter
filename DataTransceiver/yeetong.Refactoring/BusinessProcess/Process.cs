@@ -39,7 +39,9 @@ namespace yeetong_Architecture
             {
                 try
                 {
+                    //ToolAPI.XMLOperation.WriteLogXmlNoTail("a", "");
                     Subject.CommandSending_trigger(TCPOperation.tcpSocket.SocketList);
+                    //ToolAPI.XMLOperation.WriteLogXmlNoTail("b", "");
                 }
                 catch { }
                 Thread.Sleep(3000);//3秒循环一次

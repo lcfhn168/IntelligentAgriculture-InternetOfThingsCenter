@@ -8,8 +8,8 @@
     <ProjectGuid>{2A895C79-DB56-4F07-B355-EC26181C3825}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>yeetong_WindowsServer</RootNamespace>
-    <AssemblyName>yeetong_WindowsServer</AssemblyName>
+    <RootNamespace>yeetong_DataStorageServer</RootNamespace>
+    <AssemblyName>yeetong_DataStorageServer</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>

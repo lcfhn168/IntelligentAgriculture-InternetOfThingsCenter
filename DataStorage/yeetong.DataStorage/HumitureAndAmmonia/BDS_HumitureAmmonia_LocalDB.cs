@@ -19,7 +19,7 @@ namespace yeetong_DataStorage
         public string creattime { get; set; }
         public string usetype { get; set; }
         public string dbtype { get; set; }
-        public string mqtttype { get; set; }
+        public string pushtype { get; set; }
         public string forwardtype { get; set; }
     }
     public class HumitureAndAmmonia_LocalDB

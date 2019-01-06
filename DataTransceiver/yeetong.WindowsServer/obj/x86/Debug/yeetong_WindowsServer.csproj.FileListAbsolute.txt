@@ -32,6 +32,7 @@ F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\ye
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\yeetong_ProtocolAnalysis.dll
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\yeetong_UdpServer.dll
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\Newtonsoft.Json.dll
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\yeetong_ProtocolAnalysis.pdb
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\yeetong_ProtocolAnalysis.dll.config
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WindowsServer\bin\Debug\yeetong_Architecture.pdb

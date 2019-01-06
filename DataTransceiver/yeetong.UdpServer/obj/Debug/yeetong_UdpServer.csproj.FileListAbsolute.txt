@@ -3,13 +3,13 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.csproj.CoreCompileInputs.cache
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\bin\Debug\yeetong_UdpServer.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\bin\Debug\yeetong_UdpServer.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.csproj.CoreCompileInputs.cache
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.pdb
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\bin\Debug\yeetong_UdpServer.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\bin\Debug\yeetong_UdpServer.pdb
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.csproj.CoreCompileInputs.cache
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\bin\Debug\yeetong_UdpServer.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\bin\Debug\yeetong_UdpServer.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.csproj.CoreCompileInputs.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.UdpServer\obj\Debug\yeetong_UdpServer.pdb

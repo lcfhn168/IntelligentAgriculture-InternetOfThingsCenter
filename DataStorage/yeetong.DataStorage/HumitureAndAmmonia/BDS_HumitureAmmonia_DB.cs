@@ -88,7 +88,6 @@ namespace yeetong_DataStorage
                 {
                     IList<DbParameter> paraList = new List<DbParameter>();
                     paraList.Add(dbNetdefault.CreateDbParameter("@equipment_dtu_id_temp", o.DTUID));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@equipment_485_addr_temp", o.Addr485));
                     paraList.Add(dbNetdefault.CreateDbParameter("@onlineTimes", o.RecordTime));
                     int y = dbNetdefault.ExecuteNonQuery("humitureammonia_save_heartbeat", paraList, CommandType.StoredProcedure);
                     return y;

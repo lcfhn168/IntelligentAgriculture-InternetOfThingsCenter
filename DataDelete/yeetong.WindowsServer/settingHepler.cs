@@ -56,9 +56,9 @@ namespace yeetong_WindowsServer
         {
             string root = System.Reflection.Assembly.GetExecutingAssembly().Location;
             string path = root.Remove(root.LastIndexOf('\\') + 1) + "Config.ini";
-            ServiceName = ToolAPI.INIOperate.IniReadValue("goyo", "ServiceName", path);
-            DisplayName = ToolAPI.INIOperate.IniReadValue("goyo", "DisplayName", path);
-            Description = ToolAPI.INIOperate.IniReadValue("goyo", "Description", path);
+            ServiceName = ToolAPI.INIOperate.IniReadValue("yeetong", "ServiceName", path);
+            DisplayName = ToolAPI.INIOperate.IniReadValue("yeetong", "DisplayName", path);
+            Description = ToolAPI.INIOperate.IniReadValue("yeetong", "Description", path);
         }
         #endregion
         #endregion

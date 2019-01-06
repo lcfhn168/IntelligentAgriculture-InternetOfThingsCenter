@@ -40,10 +40,6 @@ namespace yeetong_DataStorage
         /// </summary>
         public string DTUID { get; set; }
         /// <summary>
-        /// 485地址 
-        /// </summary>
-        public string Addr485 { get; set; }
-        /// <summary>
         /// 时间
         /// </summary>
         public string RecordTime { get; set; }

@@ -54,14 +54,14 @@ namespace yeetong_Architecture
         /// </summary>
         public string EquipmentID { get; set; }
         /// <summary>
-        /// 新老设备标识
+        /// 下发的时间
         /// </summary>
-        public int EquipmentTag { get; set; }
+        public DateTime? DateTimeIssued { get; set; }
         public TcpClientBindingExternalClass()
         {
             TVersion = "";//版本号初始化
             EquipmentID = "";//设备编号初始化
-            EquipmentTag = 0;//新老设备标识初始化 
+            DateTimeIssued = null;
         }
     }
 }
