@@ -1,22 +1,3 @@
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\Config.ini
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\卸载.bat
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\安装.bat
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_WindowsServer.exe.config
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_WindowsServer.exe
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_WindowsServer.pdb
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\ToolAPI.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorage.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\SIXH.DBUtility.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\Newtonsoft.Json.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorage.pdb
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csprojAssemblyReference.cache
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_SpecialEquipmentServer.RoutedProtocol.resources
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_SpecialEquipmentServer.ProjectInstaller.resources
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.GenerateResource.cache
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CoreCompileInputs.cache
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CopyComplete
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.exe
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.pdb
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\Config.ini
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\卸载.bat
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\安装.bat
@@ -36,3 +17,22 @@ F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeeton
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CopyComplete
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_DataStorageServer.exe
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_DataStorageServer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\卸载.bat
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\安装.bat
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorageServer.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorageServer.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorageServer.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\ToolAPI.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorage.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\bin\Debug\yeetong_DataStorage.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_SpecialEquipmentServer.RoutedProtocol.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_SpecialEquipmentServer.ProjectInstaller.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_DataStorageServer.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataStorage\yeetong.WindowsServer\obj\x86\Debug\yeetong_DataStorageServer.pdb

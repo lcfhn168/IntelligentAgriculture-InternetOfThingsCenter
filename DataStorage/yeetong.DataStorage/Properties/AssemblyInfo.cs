@@ -31,21 +31,6 @@ using System.Runtime.InteropServices;
 //
 // 可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
 // 方法是按如下所示使用“*”: 
-// [assembly: AssemblyVersion("1.0.*")]
-//[assembly: AssemblyVersion("17.11.24.00")]
-//[assembly: AssemblyFileVersion("17.11.24.00")]
-//[assembly: AssemblyVersion("18.04.18.01")]
-//[assembly: AssemblyFileVersion("18.04.18.01")]
-//[assembly: AssemblyVersion("18.11.01.14")]//主要更新了雾炮喷淋的实时状态帧
-//[assembly: AssemblyFileVersion("18.11.01.14")]
-
-//[assembly: AssemblyVersion("18.11.06.00")]//主要更新了电表的数据库存储
-//[assembly: AssemblyFileVersion("18.11.06.00")]
-
-//[assembly: AssemblyVersion("18.11.13.00")]//主要更新了所有的外网访问剔除掉设备处理
-//[assembly: AssemblyFileVersion("18.11.13.00")]
-//[assembly: AssemblyVersion("18.11.22.00")]//烟感未及时更新equment_basic数据库表
-//[assembly: AssemblyFileVersion("18.11.22.00")]
-[assembly: AssemblyVersion("18.11.28.00")]//烟感加日志
-[assembly: AssemblyFileVersion("18.11.28.00")]
+[assembly: AssemblyVersion("19.01.09.00")]//烟感加日志
+[assembly: AssemblyFileVersion("19.01.09.00")]
 

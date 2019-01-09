@@ -16,26 +16,6 @@ namespace yeetong_DataStorage
         {
             get { return Application.StartupPath + "\\Config.ini"; }
         }
-        /// <summary>
-        /// 设备类型
-        /// </summary>
-        public static int DeviceType
-        {
-            get;
-            set;
-        }
-        static  MainStatic()
-        {
-            try
-            {
-                
-                DeviceType = int.Parse(ToolAPI.INIOperate.IniReadValue("yeetong", "DeviceType", MainStatic.Path));
-            }
-            catch(Exception ex)
-            {
-                ToolAPI.XMLOperation.WriteLogXmlNoTail("MainStatic构造异常", ex.Message + ex.StackTrace);
-                DeviceType = 0;
-            }
-        }
+       
     }
 }
