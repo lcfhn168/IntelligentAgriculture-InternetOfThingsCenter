@@ -19,7 +19,7 @@ namespace yeetong_Push
         public string creattime { get; set; }
         public string usetype { get; set; }
         public string dbtype { get; set; }
-        public string mqtttype { get; set; }
+        public string pushtype { get; set; }
         public string forwardtype { get; set; }
     }
     public class HumitureAndAmmonia_LocalDB
@@ -58,7 +58,7 @@ namespace yeetong_Push
         {
             try
             {
-                string sql = string.Format("UPDATE humitureandammonia set dbtype=1 where id={0}", id);
+                string sql = string.Format("UPDATE humitureandammonia set pushtype=1 where id={0}", id);
                 int result = DBoperateClass.DBoperateObj.ExecuteNonQuery(sql, null, CommandType.Text);
                 return result;
             }

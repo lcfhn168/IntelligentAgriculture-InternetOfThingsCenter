@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Log>  <Term Key="程序启动" Value="" Datetime="2019-01-10 22:28:19" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:28:19" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:28:49" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:29:19" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:29:49" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:30:19" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:30:50" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:31:20" />
+  <Term Key="命令下发：yt123456" Value="01030000001185C6" Datetime="2019-01-10 22:31:20" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-10 22:31:50" />

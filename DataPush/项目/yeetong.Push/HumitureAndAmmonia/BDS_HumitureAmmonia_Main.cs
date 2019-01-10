@@ -9,23 +9,17 @@ namespace yeetong_Push
 {
     public class BDS_HumitureAmmonia_Main
     {
-        public static QClient qc_TowerCrane = null;
+        private static Thread HumitureAndAmmoniaProcess = null;
 
-        private static Thread TowerCraneProcess = null;
-
-        private static List<Thread> WorkLst = new List<Thread>();
         public static void App_Open()
         {
             try
             {
-                WorkLst.Add(TowerCraneProcess);
-               
                 #region//为了提高转发效率 十个线程分流
                 //实时数据的同步和转发
-                TowerCraneProcess = new Thread(ForwardSNEndNumberIs) { IsBackground = true, Priority = ThreadPriority.Highest };
-                TowerCraneProcess.Start();
+                HumitureAndAmmoniaProcess = new Thread(PushService) { IsBackground = true, Priority = ThreadPriority.Highest };
+                HumitureAndAmmoniaProcess.Start();
                 #endregion
-                qc_TowerCrane = new QClient();
 
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_Main程序启动", "");
             }
@@ -34,11 +28,6 @@ namespace yeetong_Push
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_Main启动程序出现异常", ex.Message + ex.StackTrace);
             }
         }
-
-        private static void ForwardSNEndNumberIs()
-        {
-            PushService();
-        }
         /// <summary>
         /// 
         /// </summary>
@@ -46,15 +35,12 @@ namespace yeetong_Push
         {
             try
             {
-                WorkLst.ForEach(x => 
-                {
-                    if(x!=null&&x.IsAlive)
+             
+                    if(HumitureAndAmmoniaProcess != null&& HumitureAndAmmoniaProcess.IsAlive)
                     {
-                        x.Abort();
-                        x = null;
+                        HumitureAndAmmoniaProcess.Abort();
+                        HumitureAndAmmoniaProcess = null;
                     }
-                });
-                qc_TowerCrane.ClientClose();
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_Main程序关闭", "");
             }
             catch (Exception ex)
@@ -62,6 +48,9 @@ namespace yeetong_Push
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_Main启动关闭出现异常", ex.Message + ex.StackTrace);
             }
         }
+        /// <summary>
+        /// 推送服务
+        /// </summary>
         private  static void PushService()
         {
             while (true)
@@ -75,11 +64,9 @@ namespace yeetong_Push
                         foreach (HumitureAndAmmoniaDBFrame dbf in forwardconfigResult)
                         {
                             if (dbf.version == "1.0")
-                                ;
-                            //获得值接下来进行拼接推送
+                                BDS_HumitureAmmonia_PushProcess.BDS_HumitureAmmoniaAnalyse(dbf);
                             else
                                 HumitureAndAmmonia_LocalDB.UpdateHumitureAndAmmoniadbtypeByid(dbf.id);
-                            //走推送的业务
                         }
                     }
                 }

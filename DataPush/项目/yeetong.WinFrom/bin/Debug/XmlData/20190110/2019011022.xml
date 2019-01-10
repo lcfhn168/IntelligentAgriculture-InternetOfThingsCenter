@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Log>  <Term Key="BDS_HumitureAmmonia_Main程序启动" Value="" Datetime="2019-01-10 22:34:21" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-10 22:34:21" />
+  <Term Key="MainStatic构造异常" Value="输入字符串的格式不正确。   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 yeetong_Push.MainStatic..cctor() 位置 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\Main\MainStatic.cs:行号 59" Datetime="2019-01-10 22:34:44" />
+  <Term Key="BDS_HumitureAmmonia_Main程序启动" Value="" Datetime="2019-01-10 22:37:10" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-10 22:37:10" />
+  <Term Key="MainStatic构造异常" Value="输入字符串的格式不正确。   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 yeetong_Push.MainStatic..cctor() 位置 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\Main\MainStatic.cs:行号 59" Datetime="2019-01-10 22:37:15" />
+  <Term Key="BDS_HumitureAmmonia_Main程序启动" Value="" Datetime="2019-01-10 22:38:22" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-10 22:38:22" />
+  <Term Key="MainStatic构造异常" Value="输入字符串的格式不正确。   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 yeetong_Push.MainStatic..cctor() 位置 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\Main\MainStatic.cs:行号 59" Datetime="2019-01-10 22:38:27" />
+  <Term Key="BDS_HumitureAmmonia_Main程序启动" Value="" Datetime="2019-01-10 22:39:43" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-10 22:39:43" />
+  <Term Key="MainStatic构造异常" Value="输入字符串的格式不正确。   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 yeetong_Push.MainStatic..cctor() 位置 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\Main\MainStatic.cs:行号 59" Datetime="2019-01-10 22:39:48" />

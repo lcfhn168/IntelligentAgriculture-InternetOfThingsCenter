@@ -20,3 +20,21 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.exe
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\Config.ini
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\卸载.bat
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\安装.bat
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\yeetong_WindowsServer.exe.config
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\yeetong_WindowsServer.exe
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\yeetong_WindowsServer.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\yeetong_Push.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\SIXH.DBUtility.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\Newtonsoft.Json.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\bin\Debug\yeetong_Push.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csprojResolveAssemblyReference.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.RoutedProtocol.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.ProjectInstaller.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.GenerateResource.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CoreCompileInputs.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.csproj.CopyComplete
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.exe
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.WindowsServer\obj\x86\Debug\yeetong_WindowsServer.pdb

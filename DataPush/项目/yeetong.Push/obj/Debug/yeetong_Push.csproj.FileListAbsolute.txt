@@ -5,3 +5,10 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\bin\Debug\Config.ini
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\bin\Debug\yeetong_Push.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\bin\Debug\yeetong_Push.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.csproj.CoreCompileInputs.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.csproj.CopyComplete
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataPush\项目\yeetong.Push\obj\Debug\yeetong_Push.pdb

@@ -77,17 +77,13 @@
   <ItemGroup>
     <Compile Include="EntityReader.cs" />
     <Compile Include="Extensions.cs" />
+    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_PushProcess.cs" />
     <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_LocalDB.cs" />
     <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Model.cs" />
     <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Main.cs" />
     <Compile Include="Main\MainClass.cs" />
     <Compile Include="Main\MainStatic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QClient.cs" />
-    <Compile Include="TCp.cs" />
-    <Compile Include="tPush\JGPush.cs" />
-    <Compile Include="tPush\MsgPush.cs" />
-    <Compile Include="tPush\VoicePush.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Config.ini">

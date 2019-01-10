@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace yeetong_ProtocolAnalysis
+namespace yeetong_Push
 {
     public class BDS_HumitureAmmonia_Current
     {
@@ -39,10 +39,6 @@ namespace yeetong_ProtocolAnalysis
         /// 网关编号
         /// </summary>
         public string DTUID { get; set; }
-        /// <summary>
-        /// 485地址 
-        /// </summary>
-        public string Addr485 { get; set; }
         /// <summary>
         /// 时间
         /// </summary>

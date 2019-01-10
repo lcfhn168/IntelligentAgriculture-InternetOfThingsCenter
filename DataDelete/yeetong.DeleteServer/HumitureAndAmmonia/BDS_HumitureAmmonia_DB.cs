@@ -14,7 +14,7 @@ namespace yeetong_DataDelete
             try
             {
                 // string sql = string.Format("DELETE FROM  humitureandammonia where dbtype=1 and pushtype=1");//暂时加上mqtt推送
-                string sql = string.Format("DELETE FROM  humitureandammonia where dbtype=1 ");
+                string sql = string.Format("DELETE FROM  humitureandammonia where dbtype=1 and pushtype=1 ");
                 int result = DBoperateClass.DBoperateObj.ExecuteNonQuery(sql, null, CommandType.Text);
                 sql = string.Format("DELETE FROM  humitureandammonia where  TIMESTAMPDIFF(SECOND,creattime,now())>60");
                 int result1 = DBoperateClass.DBoperateObj.ExecuteNonQuery(sql, null, CommandType.Text);
