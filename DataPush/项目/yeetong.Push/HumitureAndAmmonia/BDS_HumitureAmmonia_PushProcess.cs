@@ -9,6 +9,7 @@ using System.Text.RegularExpressions;
 using SIXH.DBUtility;
 using System.Threading;
 
+
 namespace yeetong_Push
 {
     public class BDS_HumitureAmmonia_PushProcess
@@ -64,6 +65,8 @@ namespace yeetong_Push
                     {
                         for(int i=0;i< dt.Rows.Count; i++)
                         {
+                            string alarmConfId = dt.Rows[i]["conf_id"].ToString();
+                            string monitorTime = current.RecordTime;
                             switch (dt.Rows[i]["equipment_type_id"].ToString())
                             {
                                 //温度
@@ -85,6 +88,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         //小于
@@ -100,6 +104,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         //大于等于
@@ -115,6 +120,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         //小于等于
@@ -130,6 +136,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 ////进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         default:break;
@@ -152,8 +159,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "h"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
-                                              
+
                                                 ////进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         //小于
@@ -169,6 +177,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         //大于等于
@@ -184,6 +193,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         //小于等于
@@ -199,6 +209,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         default: break;
@@ -221,8 +232,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "a"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
-                                               
+
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         //小于
@@ -238,6 +250,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         //大于等于
@@ -253,6 +266,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         //小于等于
@@ -268,6 +282,7 @@ namespace yeetong_Push
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
                                                 //进行推送接口调用
+                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         default: break;
@@ -284,6 +299,16 @@ namespace yeetong_Push
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_DB.SavehumitureammoniaCurrent异常", ex.Message);
             }
         }
+
+        public static string PushAPIProcess(string alarmConfId,string monitorTime,string monitorValue)
+        {
+            // string url = string.Format("http://39.104.20.2:9091/zhyz/api/notice/equipment/alarm?alarmConfId={0}&monitorTime={1}&monitorValue={2}", alarmConfId, monitorTime, monitorValue);
+            //线上局域网IP
+            string url = string.Format("http://172.24.108.167:9091/zhyz/api/notice/equipment/alarm?alarmConfId={0}&monitorTime={1}&monitorValue={2}", alarmConfId, monitorTime, monitorValue);
+            string result = HttpProcess.HttpGet(url);
+            return result;
+        }
+
         #endregion
 
         #region 心跳
