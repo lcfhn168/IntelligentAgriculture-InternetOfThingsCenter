@@ -86,7 +86,7 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Gt"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "t"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
+                                                if((int)dt.Rows[i]["monitor_state"]==1)
                                                 //进行推送接口调用
                                                 PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
@@ -102,9 +102,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Lt"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "t"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         //大于等于
@@ -118,9 +118,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Gte"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "t"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         //小于等于
@@ -134,9 +134,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Lte"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "t"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                ////进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    ////进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
                                             }
                                             break;
                                         default:break;
@@ -159,9 +159,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "h"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
-
-                                                ////进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    ////进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         //小于
@@ -175,9 +175,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Lt"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "h"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         //大于等于
@@ -191,9 +191,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Gte"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "h"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         //小于等于
@@ -207,9 +207,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Lte"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "h"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
                                             }
                                             break;
                                         default: break;
@@ -232,9 +232,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "a"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
 
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         //小于
@@ -248,9 +248,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Lt"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "a"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         //大于等于
@@ -264,9 +264,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Gte"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "a"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         //小于等于
@@ -280,9 +280,9 @@ namespace yeetong_Push
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", "Lte"));
                                                 paraList.Add(dbNetdefault.CreateDbParameter("@type", "a"));
                                                 int y = dbNetdefault.ExecuteNonQuery("humitureammonia_alarm", paraList, CommandType.StoredProcedure);
-
-                                                //进行推送接口调用
-                                                PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
+                                                if ((int)dt.Rows[i]["monitor_state"] == 1)
+                                                    //进行推送接口调用
+                                                    PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
                                             }
                                             break;
                                         default: break;

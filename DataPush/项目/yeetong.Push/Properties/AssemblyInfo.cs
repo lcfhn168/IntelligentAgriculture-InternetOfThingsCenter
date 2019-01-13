@@ -37,5 +37,7 @@ using System.Runtime.InteropServices;
 
 //[assembly: AssemblyVersion("19.01.10.00")]
 //[assembly: AssemblyFileVersion("19.01.10.00")]
-[assembly: AssemblyVersion("19.01.11.02")]//三合一增加推送接口调用
-[assembly: AssemblyFileVersion("19.01.11.02")]
+//[assembly: AssemblyVersion("19.01.11.02")]//三合一增加推送接口调用
+//[assembly: AssemblyFileVersion("19.01.11.02")]
+[assembly: AssemblyVersion("19.01.13.00")]//三合一增加推送条件生效判断
+[assembly: AssemblyFileVersion("19.01.13.00")]
