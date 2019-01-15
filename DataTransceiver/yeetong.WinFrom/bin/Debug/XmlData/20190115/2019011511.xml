@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Log>  <Term Key="程序关闭" Value="" Datetime="2019-01-15 11:06:45" />
+  <Term Key="程序关闭" Value="" Datetime="2019-01-15 11:06:45" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-15 11:06:58" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-15 11:06:58" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-15 11:07:28" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-01-15 11:07:58" />
+  <Term Key="命令下发：yt123456" Value="01030000001185C6" Datetime="2019-01-15 11:07:58" />
