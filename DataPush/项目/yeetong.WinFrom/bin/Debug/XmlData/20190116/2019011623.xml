@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Log>  <Term Key="BDS_HumitureAmmonia_Main程序启动" Value="" Datetime="2019-01-16 23:02:59" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-16 23:02:59" />
+  <Term Key="HumitureAndAmmonia_LocalDB.GetHumitureAndAmmonia异常" Value="Unable to connect to any of the specified MySQL hosts." Datetime="2019-01-16 23:03:14" />
+  <Term Key="BDS_HumitureAmmonia_Main程序启动" Value="" Datetime="2019-01-16 23:03:22" />
+  <Term Key="程序启动" Value="" Datetime="2019-01-16 23:03:22" />
