@@ -20,28 +20,6 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.WinFrom\obj\Debug\WinFromStart.exe
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.WinFrom\obj\Debug\WinFromStart.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\Config.ini
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.exe.config
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.exe
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\SIXH.DBUtility.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_UdpServer.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\Newtonsoft.Json.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.dll.config
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.dll.config
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_UdpServer.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csprojResolveAssemblyReference.cache
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.Form1.resources
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.GenerateResource.cache
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CoreCompileInputs.cache
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.exe
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.pdb
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\Config.ini
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.exe.config
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.exe
@@ -64,3 +42,25 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.exe
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\Config.ini
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.exe.config
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.exe
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\WinFromStart.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\SIXH.DBUtility.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_UdpServer.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\Newtonsoft.Json.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_ProtocolAnalysis.dll.config
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_Architecture.dll.config
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\bin\Debug\yeetong_UdpServer.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csprojResolveAssemblyReference.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.Form1.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.Properties.Resources.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.GenerateResource.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CoreCompileInputs.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.exe
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.WinFrom\obj\Debug\WinFromStart.pdb

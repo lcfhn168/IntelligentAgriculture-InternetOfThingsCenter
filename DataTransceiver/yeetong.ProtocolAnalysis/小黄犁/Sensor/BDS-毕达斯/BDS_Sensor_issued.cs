@@ -25,7 +25,7 @@ namespace yeetong_ProtocolAnalysis
 
                     if (!string.IsNullOrEmpty(DTUID))
                     {
-                        if (dateTimeIssued == null || (DateTime.Now - (DateTime)dateTimeIssued).TotalSeconds >= 600)//进行下发处理
+                        if (dateTimeIssued == null || (DateTime.Now - (DateTime)dateTimeIssued).TotalSeconds >= 300)//进行下发处理
                         {
                             (SocketList[j].External.External as TcpClientBindingExternalClass).DateTimeIssued = DateTime.Now;
                             //执行下发

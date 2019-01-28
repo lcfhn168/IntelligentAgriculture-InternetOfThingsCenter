@@ -8,16 +8,6 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.Refactoring\obj\Debug\yeetong_Architecture.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DeviceDataDispatcherEnd\yeetong.Refactoring\obj\Debug\yeetong_Architecture.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\Config.ini
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll.config
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.pdb
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.Properties.Resources.resources
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.GenerateResource.cache
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CoreCompileInputs.cache
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CopyComplete
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.dll
-F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.pdb
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\Config.ini
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll.config
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll
@@ -29,3 +19,14 @@ E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThin
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CopyComplete
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.dll
 E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\Config.ini
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll.config
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\bin\Debug\yeetong_Architecture.pdb
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csprojResolveAssemblyReference.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.Properties.Resources.resources
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.GenerateResource.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CoreCompileInputs.cache
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.csproj.CopyComplete
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.dll
+F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataTransceiver\yeetong.Refactoring\obj\Debug\yeetong_Architecture.pdb
