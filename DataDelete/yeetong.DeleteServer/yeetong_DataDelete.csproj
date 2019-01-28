@@ -54,7 +54,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_DB.cs" />
+    <Compile Include="小黄犁\DTU_Data_DB.cs" />
+    <Compile Include="小黄犁\Relay\HXM-华讯美\HXM_Relay_DB.cs" />
+    <Compile Include="小黄犁\Sensor\BDS-毕达斯\BDS_Sensor_DB.cs" />
     <Compile Include="Main\MainClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -11,12 +11,10 @@ namespace yeetong_ProtocolAnalysis
     {
         public static void CommandIssued_MainInit()
         {
-            //ToolAPI.XMLOperation.WriteLogXmlNoTail("c", "");
             switch (MainStatic.DeviceType)
             {
                 case 0:
-                    //ToolAPI.XMLOperation.WriteLogXmlNoTail("d", "");
-                    CommandIssuedInitEvent += BDS_HumitureAmmonia_issued.Get_BDS_HumitureAmmonia;
+                    CommandIssuedInitEvent += BDS_Sensor_issued.Get_BDS_Sensor;
                     break;
                 default: break;
             }

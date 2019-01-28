@@ -78,10 +78,10 @@
     <Compile Include="EntityReader.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Http\HttpProcess.cs" />
-    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_PushProcess.cs" />
-    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_LocalDB.cs" />
-    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Model.cs" />
-    <Compile Include="HumitureAndAmmonia\BDS_HumitureAmmonia_Main.cs" />
+    <Compile Include="小黄犁\Sensor\BDS-毕达斯\BDS_Sensor_PushProcess.cs" />
+    <Compile Include="小黄犁\Sensor\BDS-毕达斯\BDS_Sensor_LocalDB.cs" />
+    <Compile Include="小黄犁\Sensor\BDS-毕达斯\BDS_Sensor__Model.cs" />
+    <Compile Include="小黄犁\Sensor\BDS-毕达斯\BDS_Sensor_Main.cs" />
     <Compile Include="Main\MainClass.cs" />
     <Compile Include="Main\MainStatic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

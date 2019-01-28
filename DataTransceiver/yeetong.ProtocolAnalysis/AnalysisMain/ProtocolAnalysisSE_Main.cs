@@ -16,9 +16,8 @@ namespace yeetong_ProtocolAnalysis
         {
             switch (MainStatic.DeviceType)
             {
-                //温湿度氨气三合一设备
-                case 0: BDS_HumitureAmmonia_Analyze.AnalyzeProcess(b, c, client); break;
-                
+                //小黄犁
+                case 0: DTU_Data_Analyze.AnalyzeProcess(b, c, client); break;
                 default: break;
                
             }

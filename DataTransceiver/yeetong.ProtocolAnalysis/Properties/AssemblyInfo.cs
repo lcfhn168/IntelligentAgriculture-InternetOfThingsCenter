@@ -32,5 +32,7 @@ using System.Runtime.InteropServices;
 // 可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
 // 方法是按如下所示使用“*”: 
 
-[assembly: AssemblyVersion("19.01.06.00")] 
-[assembly: AssemblyFileVersion("19.01.06.00")]
+//[assembly: AssemblyVersion("19.01.06.00")] 
+//[assembly: AssemblyFileVersion("19.01.06.00")]
+[assembly: AssemblyVersion("19.01.28.00")]//添加继电器，并且调整原来的架构
+[assembly: AssemblyFileVersion("19.01.28.00")]

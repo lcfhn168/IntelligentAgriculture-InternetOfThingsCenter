@@ -53,8 +53,9 @@ namespace yeetong_DataDelete
             {
                 try
                 {
-                    
-                    BDS_HumitureAmmonia_DB.DeleteBDSHumitureAmmonia();
+                    DTU_Data_DB.DeleteDTU();
+                    BDS_Sensor_DB.DeleteBDSSensor();
+                    HXM_Relay_DB.DeleteHXMRelay();
                 }
                 catch (Exception ex)
                 {

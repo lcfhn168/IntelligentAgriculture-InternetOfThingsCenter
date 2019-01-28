@@ -14,7 +14,7 @@ namespace yeetong_Push
         {
             try
             {
-                BDS_HumitureAmmonia_Main.App_Open();
+                BDS_Sensor_Main.App_Open();
               
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序启动", "");
             }
@@ -31,7 +31,7 @@ namespace yeetong_Push
             try
             {
 
-                BDS_HumitureAmmonia_Main.App_Close();
+                BDS_Sensor_Main.App_Close();
               
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序关闭", "");
             }
