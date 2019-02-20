@@ -9,7 +9,7 @@ using yeetong_Architecture;
 
 namespace yeetong_ProtocolAnalysis
 {
-    class BDS_Sensor_issued
+    class Sensor_issued
     {
         /// <summary>
         /// 获取传感器数据
@@ -29,7 +29,7 @@ namespace yeetong_ProtocolAnalysis
                         {
                             (SocketList[j].External.External as TcpClientBindingExternalClass).DateTimeIssued = DateTime.Now;
                             //执行下发
-                            DataTable dt = BDS_Sensor_DB.Get_bds_sensorAddr485(DTUID);
+                            DataTable dt = Sensor_DB.Get_SensorAddr485(DTUID);
                             if (dt != null && dt.Rows.Count > 0)
                             {
                                 for (int i = 0; i < dt.Rows.Count; i++)
@@ -65,7 +65,7 @@ namespace yeetong_ProtocolAnalysis
             {
                 List<byte> byteTemp = new List<byte>();
                 byteTemp.Add(addr);//地址
-                byteTemp.AddRange(new byte[] { 0x03, 0x00, 0x00, 0x00, 0x11 });//命令+寄存此起始地址+寄存器个数
+                byteTemp.AddRange(new byte[] { 0x03, 0x00, 0x00, 0x00, 0x15 });//命令+寄存此起始地址+寄存器个数
                 byteTemp.AddRange(Tool.ToModbus(byteTemp.ToArray()));//校验
                 byte[] sendbutter = byteTemp.ToArray();
                 return sendbutter;

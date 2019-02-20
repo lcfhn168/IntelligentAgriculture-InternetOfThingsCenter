@@ -39,17 +39,69 @@ namespace yeetong_ProtocolAnalysis
                 bDS_Sensor_Current.DTUID = TcpExtendTemp.EquipmentID;
                 bDS_Sensor_Current.Addr485 = addr485.ToString();
                 bDS_Sensor_Current.RecordTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                //温度
+                //地址0未知 b[3] b[4]
+                //温度 b[5] b[6]
                 Int16 TemperatureI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 5);
                 double TemperatureD = ((double)(TemperatureI - 2000)) / 100d;
-                bDS_Sensor_Current.Temperature = TemperatureD;
+                bDS_Sensor_Current.SnsorValue.A = TemperatureD;
                 //湿度
                 Int16 HumidityI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 7);
                 double HumidityD = (double)HumidityI / 100d;
-                bDS_Sensor_Current.Humidity = HumidityD;
-                //氨气
-                Int16 AmmoniaI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 35);
-                bDS_Sensor_Current.Ammonia = AmmoniaI;
+                bDS_Sensor_Current.SnsorValue.B = HumidityD;
+                //光照
+                Int16 ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 9);
+                bDS_Sensor_Current.SnsorValue.C = ValueI;
+                //紫外线
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 11);
+                bDS_Sensor_Current.SnsorValue.D = ValueI;
+                //大气压
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 13);
+                bDS_Sensor_Current.SnsorValue.E = ValueI;
+                //声音
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 15);
+                bDS_Sensor_Current.SnsorValue.F = ValueI;
+                //PM1.0
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 17);
+                bDS_Sensor_Current.SnsorValue.G = ValueI;
+                //PM2.5
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 19);
+                bDS_Sensor_Current.SnsorValue.H = ValueI;
+                //PM10
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 21);
+                bDS_Sensor_Current.SnsorValue.I = ValueI;
+                //电压值
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 23);
+                bDS_Sensor_Current.SnsorValue.J = ValueI;
+                //烟雾
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 25);
+                bDS_Sensor_Current.SnsorValue.K = ValueI;
+                //酒精
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 27);
+                bDS_Sensor_Current.SnsorValue.L = ValueI;
+                //甲烷
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 29);
+                bDS_Sensor_Current.SnsorValue.M = ValueI;
+                //丙烷
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 31);
+                bDS_Sensor_Current.SnsorValue.N = ValueI;
+                //氢气
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 33);
+                bDS_Sensor_Current.SnsorValue.O = ValueI;
+                //氨气NH3
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 35);
+                bDS_Sensor_Current.SnsorValue.P = ValueI;
+                //甲苯
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 37);
+                bDS_Sensor_Current.SnsorValue.Q = ValueI;
+                //一氧化碳
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 39);
+                bDS_Sensor_Current.SnsorValue.R = ValueI;
+                //二氧化碳
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 41);
+                bDS_Sensor_Current.SnsorValue.S = ValueI;
+                //氧气
+                ValueI = ToolAPI.ByteArrayToValueType.GetInt16_BigEndian(b, 43);
+                bDS_Sensor_Current.SnsorValue.T = ValueI;
 
                 df.deviceid = bDS_Sensor_Current.DTUID;
                 df.datatype = "current";
@@ -83,7 +135,6 @@ namespace yeetong_ProtocolAnalysis
                                     dfcopy.deviceid = devcopy[1];
                                     dfcopy.datatype = "current";
                                     dfcopy.contentjson.Replace(sourId, devcopy[1]);
-                                    ToolAPI.XMLOperation.WriteLogXmlNoTail("5", "");
                                     if (dfcopy.contentjson != null && dfcopy.contentjson != "")
                                     {
                                         BDS_Sensor_DB.Save_bds_sensor(df);

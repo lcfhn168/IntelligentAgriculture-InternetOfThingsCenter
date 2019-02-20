@@ -28,33 +28,39 @@ namespace yeetong_ProtocolAnalysis
                 byte addr485 = b[0];//485地址
                 byte command = b[1];//命令
                 byte length = b[2];//数据长度
-
-                HXM_Relay_Status xM_Relay_Status = new HXM_Relay_Status();
-                if (TcpExtendTemp.EquipmentID == null || TcpExtendTemp.EquipmentID.Equals(""))
-                    return;
-                xM_Relay_Status.DTUID = TcpExtendTemp.EquipmentID;
-                xM_Relay_Status.Addr485 = addr485.ToString();
-                xM_Relay_Status.RecordTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-                //状态
-                xM_Relay_Status.RelayStatus = Convert.ToString(b[3], 2).PadLeft(8, '0');
-
-                df.deviceid = xM_Relay_Status.DTUID;
-                df.datatype = "RelayStatus";
-                df.contentjson = JsonConvert.SerializeObject(xM_Relay_Status);
-
-                if (TcpExtendTemp.EquipmentID == null || TcpExtendTemp.EquipmentID.Equals(""))
+                if (command == 0x01)//查询状态的
                 {
-                    TcpExtendTemp.EquipmentID = df.deviceid;
+                    HXM_Relay_Status xM_Relay_Status = new HXM_Relay_Status();
+                    if (TcpExtendTemp.EquipmentID == null || TcpExtendTemp.EquipmentID.Equals(""))
+                        return;
+                    xM_Relay_Status.DTUID = TcpExtendTemp.EquipmentID;
+                    xM_Relay_Status.Addr485 = addr485.ToString();
+                    xM_Relay_Status.RecordTime = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+                    //状态
+                    xM_Relay_Status.RelayStatus = Convert.ToString(b[3], 2).PadLeft(8, '0');
+
+                    df.deviceid = xM_Relay_Status.DTUID;
+                    df.datatype = "RelayStatus";
+                    df.contentjson = JsonConvert.SerializeObject(xM_Relay_Status);
+
+                    if (TcpExtendTemp.EquipmentID == null || TcpExtendTemp.EquipmentID.Equals(""))
+                    {
+                        TcpExtendTemp.EquipmentID = df.deviceid;
+                    }
+                    //存入数据库
+                    if (df.contentjson != null && df.contentjson != "")
+                    {
+                        HXM_Relay_DB.Save_HXM_Relay_status(df);
+                    }
                 }
-                //存入数据库
-                if (df.contentjson != null && df.contentjson != "")
+                else if(command == 0x05)//开启状态
                 {
-                    HXM_Relay_DB.Save_HXM_Relay_status(df);
+
                 }
             }
             catch (Exception ex)
             {
-                ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_Sensor_Analyze.AnalyzeProcess异常", ex.Message);
+                ToolAPI.XMLOperation.WriteLogXmlNoTail("HXM_Relay_Analyze.AnalyzeProcess异常", ex.Message);
             }
         }
         #endregion

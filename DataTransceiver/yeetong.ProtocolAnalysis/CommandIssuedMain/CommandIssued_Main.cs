@@ -14,7 +14,7 @@ namespace yeetong_ProtocolAnalysis
             switch (MainStatic.DeviceType)
             {
                 case 0:
-                    CommandIssuedInitEvent += BDS_Sensor_issued.Get_BDS_Sensor;
+                    CommandIssuedInitEvent += Sensor_issued.Get_BDS_Sensor;
                     break;
                 default: break;
             }
