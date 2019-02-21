@@ -24,4 +24,28 @@ namespace yeetong_ProtocolAnalysis
         /// </summary>
         public string RelayStatus { get; set; }
     }
+
+    public class HXM_Relay_Switch
+    {
+        /// <summary>
+        /// 网关编号
+        /// </summary>
+        public string DTUID { get; set; }
+        /// <summary>
+        /// 485地址 
+        /// </summary>
+        public string Addr485 { get; set; }
+        /// <summary>
+        /// 时间
+        /// </summary>
+        public string RecordTime { get; set; }
+        /// <summary>
+        /// 继电器序号
+        /// </summary>
+        public string RelaySN { get; set; }
+        /// <summary>
+        /// 开关状态
+        /// </summary>
+        public string SwitchStatus { get; set; }
+    }
 }

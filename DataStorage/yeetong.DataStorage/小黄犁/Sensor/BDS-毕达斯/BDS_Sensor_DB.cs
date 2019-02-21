@@ -8,6 +8,7 @@ using System.Data.Common;
 using System.Text.RegularExpressions;
 using SIXH.DBUtility;
 using System.Threading;
+using Newtonsoft.Json;
 
 namespace yeetong_DataStorage
 {
@@ -39,7 +40,6 @@ namespace yeetong_DataStorage
                         SaveBDS_SensorCurrent(cu); break;
                     default: break;
                 }
-                BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
             }
             catch (Exception ex)
             {
@@ -55,14 +55,13 @@ namespace yeetong_DataStorage
             {
                 if (dbNetdefault != null)
                 {
+                    //IN `dtu_id` varchar(32) ,IN `addr485` varchar(8) ,IN `recordtime` varchar(24) ,IN `valuejson` text
                     IList<DbParameter> paraList = new List<DbParameter>();
-                    paraList.Add(dbNetdefault.CreateDbParameter("@equipment_dtu_id_temp", current.DTUID));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@equipment_485_addr_temp", current.Addr485));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@onlineTimes", current.RecordTime));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@temperature_temp", current.Temperature));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@humidity_temp", current.Humidity));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@nh3_temp", current.Ammonia));
-                    int y = dbNetdefault.ExecuteNonQuery("humitureammonia_save_current", paraList, CommandType.StoredProcedure);
+                    paraList.Add(dbNetdefault.CreateDbParameter("@dtu_id", current.DTUID));
+                    paraList.Add(dbNetdefault.CreateDbParameter("@addr485", current.Addr485));
+                    paraList.Add(dbNetdefault.CreateDbParameter("@recordtime", current.RecordTime));
+                    paraList.Add(dbNetdefault.CreateDbParameter("@valuejson", JsonConvert.SerializeObject(current.SnsorValue)));
+                    int y = dbNetdefault.ExecuteNonQuery("hly_current_save", paraList, CommandType.StoredProcedure);
                     return y;
                 }
                 return 0;

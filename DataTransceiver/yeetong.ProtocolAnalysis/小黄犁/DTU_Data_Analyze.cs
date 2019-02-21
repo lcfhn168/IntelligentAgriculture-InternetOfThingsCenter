@@ -55,18 +55,6 @@ namespace yeetong_ProtocolAnalysis
                 #endregion
                 else
                 {
-                    //无论是传感器还是控制器都遵循modbus校验
-                    if (c > 2)
-                    {
-                        byte[] btemp = new byte[c - 2];
-                        Array.Copy(b, 0, btemp, 0, c - 2);
-                        byte[] value = Tool.ToModbus(btemp);
-                        if (value[0] != b[c - 2] || value[1] != b[c - 1])
-                        {
-                            ToolAPI.XMLOperation.WriteLogXmlNoTail("无效包", ConvertData.ToHexString(b, 0, c));
-                            return;
-                        }
-                    }
                     //根据485的地址来判断是传感器还是继电器 默认奇数为传感器，偶数为继电器
                     if(b[0]%2==0)//继电器
                     {

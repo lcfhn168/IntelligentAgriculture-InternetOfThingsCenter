@@ -21,6 +21,17 @@ namespace yeetong_ProtocolAnalysis
         {
             try
             {
+                if (c > 2)
+                {
+                    byte[] btemp = new byte[c - 2];
+                    Array.Copy(b, 0, btemp, 0, c - 2);
+                    byte[] value = Tool.ToModbus(btemp);
+                    if (value[0] != b[c - 2] || value[1] != b[c - 1])
+                    {
+                        ToolAPI.XMLOperation.WriteLogXmlNoTail("无效包", ConvertData.ToHexString(b, 0, c));
+                        return;
+                    }
+                }
                 //先得到这个设备对应的dtu的设备编号
                 TcpClientBindingExternalClass TcpExtendTemp = client.External.External as TcpClientBindingExternalClass;
                 DBFrame df = new DBFrame();

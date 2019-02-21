@@ -9,7 +9,7 @@ namespace yeetong_DataStorage
 {
     public class HXM_Relay_Main
     {
-        private static  Thread HXM_RelayProcessT = null;//实时数据的同步和转发
+        private static Thread HXM_RelayProcessT = null;//实时数据的同步和转发
 
         public static void App_Open()
         {
@@ -61,8 +61,8 @@ namespace yeetong_DataStorage
                         {
                             if (dbf.version == "1.0")
                                 HXM_Relay_DB.HXM_RelayAnalyse(dbf);
-                            else
-                                HXM_Relay_LocalDB.UpdateHXM_RelaytypeByid(dbf.id);
+
+                            HXM_Relay_LocalDB.UpdateHXM_RelaytypeByid(dbf.id);
                         }
                     }
                 }

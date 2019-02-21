@@ -35,12 +35,12 @@ namespace yeetong_Push
         {
             try
             {
-             
-                    if(SensorProcess != null&& SensorProcess.IsAlive)
-                    {
-                        SensorProcess.Abort();
-                        SensorProcess = null;
-                    }
+
+                if (SensorProcess != null && SensorProcess.IsAlive)
+                {
+                    SensorProcess.Abort();
+                    SensorProcess = null;
+                }
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_Sensor_Main程序关闭", "");
             }
             catch (Exception ex)
@@ -51,7 +51,7 @@ namespace yeetong_Push
         /// <summary>
         /// 推送服务
         /// </summary>
-        private  static void PushService()
+        private static void PushService()
         {
             while (true)
             {
@@ -65,8 +65,8 @@ namespace yeetong_Push
                         {
                             if (dbf.version == "1.0")
                                 BDS_Sensor_PushProcess.BDS_SensorAnalyse(dbf);
-                            else
-                                BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
+
+                            BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
                         }
                     }
                 }

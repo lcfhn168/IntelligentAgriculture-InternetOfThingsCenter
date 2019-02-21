@@ -9,7 +9,7 @@ namespace yeetong_DataStorage
 {
     public class BDS_Sensor_Main
     {
-        private static  Thread SensorProcessT = null;//实时数据的同步和转发
+        private static Thread SensorProcessT = null;//实时数据的同步和转发
 
         public static void App_Open()
         {
@@ -61,8 +61,8 @@ namespace yeetong_DataStorage
                         {
                             if (dbf.version == "1.0")
                                 BDS_Sensor_DB.BDS_SensorAnalyse(dbf);
-                            else
-                                BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
+
+                            BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
                         }
                     }
                 }

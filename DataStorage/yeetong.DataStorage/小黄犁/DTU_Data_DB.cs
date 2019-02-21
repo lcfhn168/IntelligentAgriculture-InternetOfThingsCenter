@@ -39,7 +39,6 @@ namespace yeetong_DataStorage
                         SaveHeartbeat(hb); break;
                     default: break;
                 }
-                DTU_Data_LocalDB.UpdateDTU_DatatypeByid(dbf.id);
             }
             catch (Exception ex)
             {
@@ -54,10 +53,8 @@ namespace yeetong_DataStorage
             {
                 if (dbNetdefault != null)
                 {
-                    IList<DbParameter> paraList = new List<DbParameter>();
-                    paraList.Add(dbNetdefault.CreateDbParameter("@equipment_dtu_id_temp", o.DTUID));
-                    paraList.Add(dbNetdefault.CreateDbParameter("@onlineTimes", o.RecordTime));
-                    int y = dbNetdefault.ExecuteNonQuery("humitureammonia_save_heartbeat", paraList, CommandType.StoredProcedure);
+                    string sql = "update smart_culture_equipment set last_update_time='" + o.RecordTime + "' where equipment_dtu_id = '" + o.DTUID + "'";
+                    int y = dbNetdefault.ExecuteNonQuery(sql, null, CommandType.Text);
                     return y;
                 }
                 return 0;

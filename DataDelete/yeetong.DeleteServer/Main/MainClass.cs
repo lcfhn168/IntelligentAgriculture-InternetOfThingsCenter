@@ -59,7 +59,7 @@ namespace yeetong_DataDelete
                 }
                 catch (Exception ex)
                 {
-                    ToolAPI.XMLOperation.WriteLogXmlNoTail("TowerCraneProcess异常", ex.Message);
+                    ToolAPI.XMLOperation.WriteLogXmlNoTail("Process异常", ex.Message);
                 }
                 Thread.Sleep(10000);
             }

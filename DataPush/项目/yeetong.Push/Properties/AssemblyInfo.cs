@@ -45,5 +45,7 @@ using System.Runtime.InteropServices;
 //[assembly: AssemblyFileVersion("19.01.15.00")]
 //[assembly: AssemblyVersion("19.01.16.00")]//三合一增加推送条件生效提前判断
 //[assembly: AssemblyFileVersion("19.01.16.00")]
-[assembly: AssemblyVersion("19.01.28.00")]//添加继电器，并且调整原来的架构
-[assembly: AssemblyFileVersion("19.01.28.00")]
+//[assembly: AssemblyVersion("19.01.28.00")]//添加继电器，并且调整原来的架构
+//[assembly: AssemblyFileVersion("19.01.28.00")]
+[assembly: AssemblyVersion("19.02.21.01")]//黄犁眼，黄犁手，小黄犁智能盒子数据处理
+[assembly: AssemblyFileVersion("19.02.21.01")]

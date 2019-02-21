@@ -15,6 +15,8 @@ namespace yeetong_ProtocolAnalysis
             {
                 case 0:
                     CommandIssuedInitEvent += Sensor_issued.Get_BDS_Sensor;
+                    CommandIssuedInitEvent += Relay_issued.Get_HXM_Relay;
+                    CommandIssuedInitEvent += Relay_issued.Get_HXM_RelayUpdate;
                     break;
                 default: break;
             }

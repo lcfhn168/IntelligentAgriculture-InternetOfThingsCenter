@@ -8,6 +8,7 @@ using System.Data.Common;
 using System.Text.RegularExpressions;
 using SIXH.DBUtility;
 using System.Threading;
+using Newtonsoft.Json;
 
 namespace yeetong_DataStorage
 {
@@ -35,11 +36,10 @@ namespace yeetong_DataStorage
                 switch (dbf.datatype)
                 {
                     case "RelayStatus":
-                        HXM_RelayDBFrame cu = Newtonsoft.Json.JsonConvert.DeserializeObject<HXM_RelayDBFrame>(dbf.contentjson);
+                        HXM_Relay_Status cu = Newtonsoft.Json.JsonConvert.DeserializeObject<HXM_Relay_Status>(dbf.contentjson);
                         SaveHXM_RelayStatus(cu); break;
                     default: break;
                 }
-                BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
             }
             catch (Exception ex)
             {
@@ -49,13 +49,20 @@ namespace yeetong_DataStorage
 
 
         #region 实时数据
-        public static int SaveHXM_RelayStatus(HXM_RelayDBFrame current)
+        public static int SaveHXM_RelayStatus(HXM_Relay_Status current)
         {
             try
             {
                 if (dbNetdefault != null)
                 {
-                   
+                    //IN `dtu_id` varchar(32) ,IN `addr485` varchar(8) ,IN `recordtime` varchar(24) ,IN `valuejson` text
+                    IList<DbParameter> paraList = new List<DbParameter>();
+                    paraList.Add(dbNetdefault.CreateDbParameter("@dtu_id", current.DTUID));
+                    paraList.Add(dbNetdefault.CreateDbParameter("@addr485", current.Addr485));
+                    paraList.Add(dbNetdefault.CreateDbParameter("@recordtime", current.RecordTime));
+                    paraList.Add(dbNetdefault.CreateDbParameter("@relaystatus", current.RelayStatus));
+                    int y = dbNetdefault.ExecuteNonQuery("hls_current_save", paraList, CommandType.StoredProcedure);
+                    return y;
                 }
                 return 0;
             }

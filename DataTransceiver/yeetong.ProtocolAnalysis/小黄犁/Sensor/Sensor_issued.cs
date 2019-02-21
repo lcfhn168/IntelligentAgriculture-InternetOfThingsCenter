@@ -11,6 +11,7 @@ namespace yeetong_ProtocolAnalysis
 {
     class Sensor_issued
     {
+        static DateTime? TimeFlag;
         /// <summary>
         /// 获取传感器数据
         /// </summary>
@@ -18,27 +19,27 @@ namespace yeetong_ProtocolAnalysis
         {
             try
             {
-                for (int j = 0; j < SocketList.Count; j++)
+                //时间间隔为5分钟 执行一下数据获取的操作
+                if (TimeFlag == null || (DateTime.Now - (DateTime)TimeFlag).TotalSeconds >= 300)
                 {
-                    string DTUID = (SocketList[j].External.External as TcpClientBindingExternalClass).EquipmentID;
-                    DateTime? dateTimeIssued = (SocketList[j].External.External as TcpClientBindingExternalClass).DateTimeIssued;
+                    TimeFlag = DateTime.Now;
 
-                    if (!string.IsNullOrEmpty(DTUID))
+                    for (int j = 0; j < SocketList.Count; j++)
                     {
-                        if (dateTimeIssued == null || (DateTime.Now - (DateTime)dateTimeIssued).TotalSeconds >= 300)//进行下发处理
+                        string DTUID = (SocketList[j].External.External as TcpClientBindingExternalClass).EquipmentID;
+                        if (!string.IsNullOrEmpty(DTUID))
                         {
-                            (SocketList[j].External.External as TcpClientBindingExternalClass).DateTimeIssued = DateTime.Now;
                             //执行下发
                             DataTable dt = Sensor_DB.Get_SensorAddr485(DTUID);
                             if (dt != null && dt.Rows.Count > 0)
                             {
                                 for (int i = 0; i < dt.Rows.Count; i++)
                                 {
-                                    byte[] sendbuffer =UploadCurrentSplitJoint(byte.Parse(dt.Rows[i]["equipment_485_addr"].ToString()));
+                                    byte[] sendbuffer = UploadCurrentSplitJoint(byte.Parse(dt.Rows[i]["equipment_485_addr"].ToString()));
                                     if (sendbuffer != null)
                                     {
                                         SocketList[j].SendBuffer(sendbuffer);
-                                        ToolAPI.XMLOperation.WriteLogXmlNoTail("命令下发：" + DTUID, ConvertData.ToHexString(sendbuffer, 0, sendbuffer.Length));
+                                        ToolAPI.XMLOperation.WriteLogXmlNoTail("得到BDS数据命令下发：" + DTUID, ConvertData.ToHexString(sendbuffer, 0, sendbuffer.Length));
                                     }
                                 }
                             }

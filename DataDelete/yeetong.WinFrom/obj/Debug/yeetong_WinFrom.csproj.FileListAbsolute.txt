@@ -1,18 +1,3 @@
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\Config.ini
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe.config
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.pdb
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_DataDelete.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\SIXH.DBUtility.dll
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_DataDelete.pdb
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csprojAssemblyReference.cache
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Form1.resources
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Properties.Resources.resources
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.GenerateResource.cache
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CoreCompileInputs.cache
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.exe
-E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.pdb
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\Config.ini
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe.config
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe
@@ -28,3 +13,18 @@ F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.exe
 F:\智慧农业\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\Config.ini
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe.config
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_WinFrom.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_DataDelete.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\SIXH.DBUtility.dll
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\bin\Debug\yeetong_DataDelete.pdb
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csprojAssemblyReference.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Form1.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.Properties.Resources.resources
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.GenerateResource.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CoreCompileInputs.cache
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.csproj.CopyComplete
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.exe
+E:\ZT\yitongwuxian\InternetOf ThingsCenter\IntelligentAgriculture-InternetOfThingsCenter\DataDelete\yeetong.WinFrom\obj\Debug\yeetong_WinFrom.pdb

@@ -9,7 +9,7 @@ namespace yeetong_DataStorage
 {
     public class DTU_Data_Main
     {
-        private static  Thread DTU_Data_ProcessT = null;//实时数据的同步和转发
+        private static Thread DTU_Data_ProcessT = null;//实时数据的同步和转发
 
         public static void App_Open()
         {
@@ -61,8 +61,8 @@ namespace yeetong_DataStorage
                         {
                             if (dbf.version == "1.0")
                                 DTU_Data_DB.DTU_Data_Analyse(dbf);
-                            else
-                                DTU_Data_LocalDB.UpdateDTU_DatatypeByid(dbf.id);
+                            //去掉标志
+                            DTU_Data_LocalDB.UpdateDTU_DatatypeByid(dbf.id);
                         }
                     }
                 }

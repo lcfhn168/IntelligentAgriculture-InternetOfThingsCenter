@@ -8,6 +8,10 @@ namespace yeetong_ProtocolAnalysis
     [Serializable]
     public class BDS_Sensor_Current
     {
+        public BDS_Sensor_Current()
+        {
+            SnsorValue = new SensorValue();
+        }
         /// <summary>
         /// 网关编号
         /// </summary>
@@ -105,6 +109,8 @@ namespace yeetong_ProtocolAnalysis
             /// 氧气
             /// </summary>
             public double T { get; set; }
+
+           
         }
         
     }

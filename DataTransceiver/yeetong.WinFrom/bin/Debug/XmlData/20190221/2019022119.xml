@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Log>  <Term Key="程序启动" Value="" Datetime="2019-02-21 19:24:10" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:24:10" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:24:40" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:25:10" />
+  <Term Key="BDS_Sensor_Analyze.AnalyzeProcess异常" Value="未将对象引用设置到对象的实例。" Datetime="2019-02-21 19:25:14" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:25:40" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:26:10" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:26:40" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:27:10" />
+  <Term Key="BDS_Sensor_Analyze.AnalyzeProcess异常" Value="未将对象引用设置到对象的实例。" Datetime="2019-02-21 19:27:26" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:27:40" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:28:10" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:28:40" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:29:11" />
+  <Term Key="Sensor_DB.Get_SensorAddr485异常" Value="Authentication to host '39.104.20.2' for user 'wisdom_root' using method 'mysql_native_password' failed with message: Reading from the stream has failed." Datetime="2019-02-21 19:29:27" />
+  <Term Key="程序启动" Value="" Datetime="2019-02-21 19:30:52" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:30:52" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:31:22" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:31:53" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:32:23" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:32:56" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:33:26" />
+  <Term Key="程序启动" Value="" Datetime="2019-02-21 19:47:38" />
+  <Term Key="测试TCP监听正常" Value="4999" Datetime="2019-02-21 19:47:41" />

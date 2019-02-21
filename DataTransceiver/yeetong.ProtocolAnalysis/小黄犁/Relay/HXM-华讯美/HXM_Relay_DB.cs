@@ -31,22 +31,5 @@ namespace yeetong_ProtocolAnalysis
             }
         }
         #endregion
-
-        #region 访问远端数据库
-        static DbHelperSQL dbNetdefault = null;
-        static HXM_Relay_DB()
-        {
-            try
-            {
-                string connectionString = ToolAPI.INIOperate.IniReadValue("netSqlGroup", "connectionString", MainStatic.Path);
-                string[] dbnetAr = connectionString.Split('&');
-                dbNetdefault = new DbHelperSQL(string.Format("Data Source={0};Port={1};Database={2};User={3};Password={4}", dbnetAr[0], dbnetAr[1], dbnetAr[2], dbnetAr[3], dbnetAr[4]), DbProviderType.MySql);
-            }
-            catch (Exception ex)
-            {
-                ToolAPI.XMLOperation.WriteLogXmlNoTail("BDS_HumitureAmmonia_DB异常", ex.Message);
-            }
-        }
-        #endregion
     }
 }

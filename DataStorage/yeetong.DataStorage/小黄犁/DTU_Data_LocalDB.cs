@@ -38,6 +38,7 @@ namespace yeetong_DataStorage
                 if (result != null && result.Rows.Count>0)
                 {
                     IList<DTU_DataDBFrame> forwardconfigResult = Extensions.ToList<DTU_DataDBFrame>(result);
+
                     return forwardconfigResult;
                 }
                 return null;

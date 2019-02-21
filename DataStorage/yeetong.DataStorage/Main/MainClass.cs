@@ -16,6 +16,7 @@ namespace yeetong_DataStorage
             {
                 BDS_Sensor_Main.App_Open();
                 DTU_Data_Main.App_Open();
+                HXM_Relay_Main.App_Open();
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序启动", "");
             }
             catch (Exception ex)
@@ -33,6 +34,7 @@ namespace yeetong_DataStorage
 
                 BDS_Sensor_Main.App_Close();
                 DTU_Data_Main.App_Close();
+                HXM_Relay_Main.App_Close();
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序关闭", "");
             }
             catch (Exception ex)

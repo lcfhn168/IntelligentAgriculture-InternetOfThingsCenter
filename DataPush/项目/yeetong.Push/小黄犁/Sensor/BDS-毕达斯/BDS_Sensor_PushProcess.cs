@@ -40,7 +40,6 @@ namespace yeetong_Push
                         PushSensorCurrent(cu); break;
                     default: break;
                 }
-                BDS_Sensor_LocalDB.UpdateSensordbtypeByid(dbf.id);
             }
             catch (Exception ex)
             {
@@ -56,7 +55,7 @@ namespace yeetong_Push
             {
                 if (dbNetdefault != null)
                 {
-                    string sql = string.Format("select smart_culture_alarm_conf.* from smart_culture_alarm_conf  cross join smart_culture_equipment where smart_culture_alarm_conf.equipment_id = smart_culture_equipment.equipment_id and smart_culture_equipment.equipment_dtu_id = '{0}' and smart_culture_equipment.equipment_485_addr = '{1}' and monitor_state='1'", current.DTUID, current.Addr485);
+                    string sql = string.Format("select al.conf_id,al.alarm_term,al.monitor_alarm_value ,al.operational_character from smart_culture_alarm_conf as al, smart_culture_equipment  as e where al.equipment_id = e.equipment_id and e.equipment_dtu_id = '{0}' and e.equipment_485_addr = '{1}' and al.monitor_state='1'", current.DTUID, current.Addr485);
                     DataTable dt = dbNetdefault.ExecuteDataTable(sql, null, CommandType.Text);
                     if (dt != null && dt.Rows.Count > 0)
                     {
@@ -65,117 +64,35 @@ namespace yeetong_Push
                             string alarmConfId = dt.Rows[i]["conf_id"].ToString();
                             string monitorTime = current.RecordTime;
 
-                            switch (dt.Rows[i]["equipment_type_id"].ToString())
+                            bool isAlarm = false;
+                            string operational = dt.Rows[i]["operational_character"].ToString();
+                            double alarm_value = double.Parse(dt.Rows[i]["monitor_alarm_value"].ToString());
+                            double value = 0;
+                            switch (dt.Rows[i]["alarm_term"].ToString())
                             {
-                                //温度
-                                case "5c20b71a7e29f28d5eaf774c":
-                                    bool isAlarm = false;
-                                    switch (dt.Rows[i]["operational_character"].ToString())
-                                    {
-                                        //大于
-                                        case "Gt":
-                                            isAlarm = current.Temperature > double.Parse(dt.Rows[i]["monitor_alarm_value"].ToString());
-                                            break;
-                                        //小于
-                                        case "Lt":
-                                            isAlarm = current.Temperature < double.Parse(dt.Rows[i]["monitor_alarm_value"].ToString());
-                                            break;
-                                        //大于等于
-                                        case "Gte":
-                                            isAlarm = current.Temperature >= double.Parse(dt.Rows[i]["monitor_alarm_value"].ToString());
-                                            break;
-                                        //小于等于
-                                        case "Lte":
-                                            isAlarm = current.Temperature <= double.Parse(dt.Rows[i]["monitor_alarm_value"].ToString());
-                                            break;
-                                        default: break;
-                                    }
-                                    if (isAlarm)//有报警
-                                    {
-                                        IList<DbParameter> paraList = new List<DbParameter>();
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@equipment_id_temp", dt.Rows[i]["equipment_id"].ToString()));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@alarm_temp", (double)dt.Rows[i]["monitor_alarm_value"]));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@value_temp", current.Temperature));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", dt.Rows[i]["operational_character"].ToString()));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@type", "t"));
-                                        int y = dbNetdefault.ExecuteNonQuery("Sensor_alarm", paraList, CommandType.StoredProcedure);
-                                        PushAPIProcess(alarmConfId, monitorTime, current.Temperature.ToString());
-                                    }
-                                    break;
-                                //湿度
-                                case "5c20b71a7e29f28d5eaf774d":
-                                    bool isAlarH = false;
-                                    switch (dt.Rows[i]["operational_character"].ToString())
-                                    {
-                                        //大于
-                                        case "Gt":
-                                            isAlarH = current.Humidity > (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        //小于
-                                        case "Lt":
-                                            isAlarH = current.Humidity < (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        //大于等于
-                                        case "Gte":
-                                            isAlarH = current.Humidity >= (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        //小于等于
-                                        case "Lte":
-                                            isAlarH = current.Humidity <= (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        default: break;
-                                    }
-                                    if (isAlarH)//有报警
-                                    {
-                                        IList<DbParameter> paraList = new List<DbParameter>();
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@equipment_id_temp", dt.Rows[i]["equipment_id"].ToString()));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@alarm_temp", (double)dt.Rows[i]["monitor_alarm_value"]));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@value_temp", current.Humidity));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", dt.Rows[i]["operational_character"].ToString()));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@type", "h"));
-                                        int y = dbNetdefault.ExecuteNonQuery("Sensor_alarm", paraList, CommandType.StoredProcedure);
-
-                                        PushAPIProcess(alarmConfId, monitorTime, current.Humidity.ToString());
-                                    }
-                                    break;
-                                //氨气
-                                case "5c2085cb7e29123757fd3fe8":
-                                    bool isAlarA = false;
-                                    switch (dt.Rows[i]["operational_character"].ToString())
-                                    {
-                                        //大于
-                                        case "Gt":
-                                            isAlarA = current.Ammonia > (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        //小于
-                                        case "Lt":
-                                            isAlarA = current.Ammonia < (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        //大于等于
-                                        case "Gte":
-                                            isAlarA = current.Ammonia >= (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        //小于等于
-                                        case "Lte":
-                                            isAlarA = current.Ammonia <= (double)dt.Rows[i]["monitor_alarm_value"];
-                                            break;
-                                        default: break;
-                                    }
-                                    if(isAlarA)
-                                    {
-                                        IList<DbParameter> paraList = new List<DbParameter>();
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@equipment_id_temp", dt.Rows[i]["equipment_id"].ToString()));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@alarm_temp", (double)dt.Rows[i]["monitor_alarm_value"]));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@value_temp", current.Ammonia));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@operational_character_temp", dt.Rows[i]["operational_character"].ToString()));
-                                        paraList.Add(dbNetdefault.CreateDbParameter("@type", "a"));
-                                        int y = dbNetdefault.ExecuteNonQuery("Sensor_alarm", paraList, CommandType.StoredProcedure);
-
-                                        PushAPIProcess(alarmConfId, monitorTime, current.Ammonia.ToString());
-                                    }
-                                    break;
+                                case "A": IsAlarm(operational, current.SnsorValue.A, alarm_value); value = current.SnsorValue.A; break;
+                                case "B": IsAlarm(operational, current.SnsorValue.B, alarm_value); value = current.SnsorValue.B; break;
+                                case "C": IsAlarm(operational, current.SnsorValue.C, alarm_value); value = current.SnsorValue.C; break;
+                                case "D": IsAlarm(operational, current.SnsorValue.D, alarm_value); value = current.SnsorValue.D; break;
+                                case "E": IsAlarm(operational, current.SnsorValue.E, alarm_value); value = current.SnsorValue.E; break;
+                                case "F": IsAlarm(operational, current.SnsorValue.F, alarm_value); value = current.SnsorValue.F; break;
+                                case "G": IsAlarm(operational, current.SnsorValue.G, alarm_value); value = current.SnsorValue.G; break;
+                                case "H": IsAlarm(operational, current.SnsorValue.H, alarm_value); value = current.SnsorValue.H; break;
+                                case "I": IsAlarm(operational, current.SnsorValue.I, alarm_value); value = current.SnsorValue.I; break;
+                                case "J": IsAlarm(operational, current.SnsorValue.J, alarm_value); value = current.SnsorValue.J; break;
+                                case "K": IsAlarm(operational, current.SnsorValue.K, alarm_value); value = current.SnsorValue.K; break;
+                                case "L": IsAlarm(operational, current.SnsorValue.L, alarm_value); value = current.SnsorValue.L; break;
+                                case "M": IsAlarm(operational, current.SnsorValue.M, alarm_value); value = current.SnsorValue.M; break;
+                                case "N": IsAlarm(operational, current.SnsorValue.N, alarm_value); value = current.SnsorValue.N; break;
+                                case "O": IsAlarm(operational, current.SnsorValue.O, alarm_value); value = current.SnsorValue.O; break;
+                                case "P": IsAlarm(operational, current.SnsorValue.P, alarm_value); value = current.SnsorValue.P; break;
+                                case "Q": IsAlarm(operational, current.SnsorValue.Q, alarm_value); value = current.SnsorValue.Q; break;
+                                case "R": IsAlarm(operational, current.SnsorValue.R, alarm_value); value = current.SnsorValue.R; break;
+                                case "S": IsAlarm(operational, current.SnsorValue.S, alarm_value); value = current.SnsorValue.S; break;
+                                case "T": IsAlarm(operational, current.SnsorValue.T, alarm_value); value = current.SnsorValue.T; break;
                                 default: break;
                             }
+                            PushAPIProcess(alarmConfId, monitorTime, value.ToString());
                         }
                     }
                 }
@@ -192,9 +109,35 @@ namespace yeetong_Push
             //线上局域网IP
             string url = string.Format("http://172.24.108.167:9091/zhyz/api/notice/equipment/alarm?alarmConfId={0}&monitorTime={1}&monitorValue={2}", alarmConfId, monitorTime, monitorValue);
             string result = HttpProcess.HttpGet(url);
+            ToolAPI.XMLOperation.WriteLogXmlNoTail("推送接口调用", alarmConfId+";"+ monitorValue+";"+ result);
             return result;
         }
 
+        public static bool IsAlarm(string operational,double value,double alarm_value)
+        {
+            bool isAlarm = false;
+            switch (operational)
+            {
+                //大于
+                case "Gt":
+                    isAlarm = value > alarm_value;
+                    break;
+                //小于
+                case "Lt":
+                    isAlarm = value < alarm_value;
+                    break;
+                //大于等于
+                case "Gte":
+                    isAlarm = value >= alarm_value;
+                    break;
+                //小于等于
+                case "Lte":
+                    isAlarm = value <= alarm_value;
+                    break;
+                default: break;
+            }
+            return isAlarm;
+        }
         #endregion
     }
 }

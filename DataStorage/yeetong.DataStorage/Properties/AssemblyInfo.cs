@@ -33,6 +33,8 @@ using System.Runtime.InteropServices;
 // 方法是按如下所示使用“*”: 
 //[assembly: AssemblyVersion("19.01.09.00")]
 //[assembly: AssemblyFileVersion("19.01.09.00")]
-[assembly: AssemblyVersion("19.01.28.00")]//添加继电器，并且调整原来的架构
-[assembly: AssemblyFileVersion("19.01.28.00")]
+//[assembly: AssemblyVersion("19.01.28.00")]//添加继电器，并且调整原来的架构
+//[assembly: AssemblyFileVersion("19.01.28.00")]
+[assembly: AssemblyVersion("19.02.21.00")]//黄犁眼，黄犁手，小黄犁智能盒子数据处理
+[assembly: AssemblyFileVersion("19.02.21.00")]
 
