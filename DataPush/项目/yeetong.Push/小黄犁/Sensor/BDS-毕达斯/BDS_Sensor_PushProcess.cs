@@ -14,7 +14,7 @@ namespace yeetong_Push
 {
     public class BDS_Sensor_PushProcess
     {
-        static DbHelperSQL dbNetdefault = null;
+        public static DbHelperSQL dbNetdefault = null;
         static BDS_Sensor_PushProcess()
         {
             try

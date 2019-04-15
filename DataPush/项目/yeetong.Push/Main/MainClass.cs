@@ -15,7 +15,7 @@ namespace yeetong_Push
             try
             {
                 BDS_Sensor_Main.App_Open();
-              
+                Equipment_status_Main.App_Open();
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序启动", "");
             }
             catch (Exception ex)
@@ -32,7 +32,7 @@ namespace yeetong_Push
             {
 
                 BDS_Sensor_Main.App_Close();
-              
+                Equipment_status_Main.App_Close();
                 ToolAPI.XMLOperation.WriteLogXmlNoTail("程序关闭", "");
             }
             catch (Exception ex)
