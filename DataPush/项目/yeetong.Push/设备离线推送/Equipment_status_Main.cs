@@ -15,6 +15,8 @@ namespace yeetong_Push
         {
             try
             {
+               // PushAPIProcessOn("5ca71bc3e4b02eae9c455aa3");
+
                 //实时数据的同步和转发
                 Equipment_statusProcess = new Thread(Equipment_status_Service) { IsBackground = true, Priority = ThreadPriority.Highest };
                 Equipment_statusProcess.Start();
@@ -64,7 +66,7 @@ namespace yeetong_Push
                         foreach (DataRow dr in dt.Rows)
                         {
                             //执行上线推送
-                            //？？？todo
+                            PushAPIProcessOn(dr["equipment_id"].ToString());
                             //更新
                             string sql1 = string.Format("update smart_culture_equipment set working_status=1 where id={0}", dr["id"].ToString());
                             int result = BDS_Sensor_PushProcess.dbNetdefault.ExecuteNonQuery(sql1, null, CommandType.Text);
@@ -102,6 +104,15 @@ namespace yeetong_Push
             string url = string.Format("http://172.24.108.167:9091/zhyz/api/notice/equipment/outline/alarm?equipmentId={0}", equipment_id);
             string result = HttpProcess.HttpGet(url);
             ToolAPI.XMLOperation.WriteLogXmlNoTail("设备状态接口调用", equipment_id + ";" + result);
+            return result;
+        }
+        public static string PushAPIProcessOn(string equipment_id)
+        {
+            //线上局域网IP
+            string url = string.Format("http://172.24.108.167:9091/zhyz/api/notice/equipment/online/alarm?equipmentId={0}", equipment_id);
+           // string url = string.Format("http://wxapi.yeetong.cn/zhyz/api/notice/equipment/online/alarm?equipmentId={0}", equipment_id);
+            string result = HttpProcess.HttpGet(url);
+            ToolAPI.XMLOperation.WriteLogXmlNoTail("设备上线状态接口调用", equipment_id + ";" + result);
             return result;
         }
     }

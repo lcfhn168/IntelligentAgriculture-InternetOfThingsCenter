@@ -50,5 +50,9 @@ using System.Runtime.InteropServices;
 //[assembly: AssemblyVersion("19.02.21.01")]//黄犁眼，黄犁手，小黄犁智能盒子数据处理
 //[assembly: AssemblyFileVersion("19.02.21.01")]
 
-[assembly: AssemblyVersion("19.04.15.01")]//设备状态更改推送
-[assembly: AssemblyFileVersion("19.04.15.01")]
+//[assembly: AssemblyVersion("19.04.15.01")]//设备状态更改推送
+//[assembly: AssemblyFileVersion("19.04.15.01")]
+
+
+[assembly: AssemblyVersion("19.04.18.00")]//上线接口调取封装
+[assembly: AssemblyFileVersion("19.04.18.00")]
